@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:generator>LibreOffice/5.0.6.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:title/><meta:initial-creator/><dc:creator>Kael Shipman</dc:creator><meta:editing-cycles>10</meta:editing-cycles><dc:date>2016-07-11T15:11:20.926197311</dc:date><meta:editing-duration>PT2H8M10S</meta:editing-duration><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="10" meta:word-count="483" meta:character-count="2987" meta:non-whitespace-character-count="2510"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/5.0.6.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:title/><meta:initial-creator/><dc:creator>Kael Shipman</dc:creator><meta:editing-cycles>11</meta:editing-cycles><dc:date>2016-07-11T15:52:52.875610925</dc:date><meta:editing-duration>PT2H27M29S</meta:editing-duration><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="10" meta:word-count="484" meta:character-count="2997" meta:non-whitespace-character-count="2519"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">7832</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">5080</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">31408</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">15533</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">34451</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15612</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">22800</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">14153</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">20507</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">12896</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">7832</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">31406</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">23363</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">5080</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">34449</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">20690</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -68,7 +68,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1858257</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1868363</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -119,8 +119,10 @@
  </office:scripts>
  <office:font-face-decls>
   <style:font-face style:name="Trebuchet MS" svg:font-family="&apos;Trebuchet MS&apos;"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="swiss"/>
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial1" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
@@ -130,11 +132,11 @@
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="US" style:font-name-asian="Times New Roman" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Times New Roman" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="en" style:country-complex="US"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:orphans="2" fo:widows="2" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.5in" style:writing-mode="page"/>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="US" style:font-name-asian="Times New Roman" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="en" style:country-complex="US"/>
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.5in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Times New Roman" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="en" style:country-complex="US" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:default-style>
   <style:default-style style:family="table">
    <style:table-properties table:border-model="collapsing"/>
@@ -144,7 +146,7 @@
   </style:default-style>
   <style:style style:name="Standard" style:family="paragraph" style:class="text">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.139in" loext:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-family-asian="Arial" style:font-family-generic-asian="swiss" style:font-pitch-asian="variable" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial" style:font-family-complex="Arial" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial1" style:font-family-asian="Arial" style:font-family-generic-asian="swiss" style:font-pitch-asian="variable" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
    <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
@@ -152,6 +154,17 @@
   </style:style>
   <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="120%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-size-asian="12pt" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-size-asian="12pt" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
   </style:style>
   <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
    <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" fo:keep-together="always" fo:break-before="auto" fo:break-after="auto" fo:keep-with-next="always" style:writing-mode="lr-tb"/>
@@ -330,25 +343,32 @@
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:line-height="115%" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:line-height="115%" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:rsid="00160b80" officeooo:paragraph-rsid="00160b80"/>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:line-height="115%" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:line-height="115%" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:rsid="001a767c" officeooo:paragraph-rsid="001a767c"/>
+   <style:text-properties officeooo:rsid="00160b80" officeooo:paragraph-rsid="00160b80"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:line-height="115%" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="001a767c" officeooo:paragraph-rsid="001a767c"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="115%" style:writing-mode="lr-tb"/>
    <style:text-properties officeooo:rsid="0018e3f1" officeooo:paragraph-rsid="001be04e"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Footnote">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Footnote">
    <style:text-properties officeooo:rsid="001c4f16" officeooo:paragraph-rsid="001c4f16"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="">
+   <style:paragraph-properties fo:line-height="115%" style:page-number="auto" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="001a767c" officeooo:paragraph-rsid="001a767c"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:line-height="115%" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="Standard">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="Standard">
    <style:paragraph-properties fo:line-height="115%" style:page-number="auto" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
    <style:text-properties officeooo:rsid="001a767c" officeooo:paragraph-rsid="001a767c"/>
   </style:style>
@@ -385,6 +405,9 @@
   <style:style style:name="T11" style:family="text">
    <style:text-properties officeooo:rsid="001be04e"/>
   </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="001c824b"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1in" fo:margin-bottom="1in" fo:margin-left="1in" fo:margin-right="1in" fo:border="none" fo:padding="0in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -405,14 +428,14 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P8"><text:bookmark text:name="h.907qwdyyqp0p"/>Manifesto <text:span text:style-name="T10">for</text:span> an Open Future</text:p>
+   <text:p text:style-name="P10"><text:bookmark text:name="h.907qwdyyqp0p"/>Manifesto <text:span text:style-name="T10">for</text:span> <text:span text:style-name="T12">an Open Social Sector</text:span></text:p>
    <text:p text:style-name="P1"><text:bookmark text:name="h.tur3p4lly216"/>“The door is open to the open source way to bring success to non technology companies, schools, universities, governments — to the world.” <text:span text:style-name="T6">Jim Whitehurst, </text:span><text:span text:style-name="T1">The Open Organization</text:span></text:p>
-   <text:h text:style-name="P7" text:outline-level="10"><text:bookmark text:name="h.333yew2sv0rw"/>Introduction</text:h>
+   <text:h text:style-name="P9" text:outline-level="10"><text:bookmark text:name="h.333yew2sv0rw"/>Introduction</text:h>
    <text:p text:style-name="P2">In his important book, <text:span text:style-name="T4">The Open Organization</text:span>, Jim Whitehurst, <text:span text:style-name="T6">CEO of multi-billion dollar software company, Red Hat,</text:span> suggests a movement toward a future where the open-source philosophy<text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
-      <text:p text:style-name="P6">If you&apos;re unfamiliar with “open source”, try starting with <text:a xlink:type="simple" xlink:href="https://medium.com/@nayafia/evolving-the-term-open-source-902ce28a59b2#.yiltb4fwq" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">this Medium post</text:a>. I like it because it&apos;s a relatively non-dogmatic, unstructured discussion about open philosophies, but also points to a formal and official definition of “open source”.</text:p></text:note-body></text:note> transcends the software development world and touches the core of human knowledge and collective thought power. It’s a future with immense possibilitie<text:span text:style-name="T7">s, and today the world is taking its first teetering steps in the direction of this future.</text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="T9">And it&apos;s happening across all sectors. At a frantic pace</text:span>, the lines are blurring between consumer and producer, manager and employee, decision-maker and constituent. Companies like Uber and AirBnB <text:span text:style-name="T8">have defined “latent supply” models that give everyday people access to economies once only accessible to insiders and “owners”. The 3D printer and Etsy have rocketed to the fore the real possibility of the stay-at-home manufacturer. Wikipedia has open-sourced knowledge, and Twitter and Facebook have provided information super-highways, putting power in the hands of hundreds of millions who would never have known their own potential just 2 decades prior.</text:span></text:p>
-   <text:p text:style-name="P4">Furthermore, our culture is changing – fast. The new cultural avant-guard is <text:span text:style-name="T10">collaboration.</text:span></text:p>
-   <text:p text:style-name="P5">Yet even still, <text:span text:style-name="T11">imminent as it is,</text:span> we are not living in an Open World. <text:span text:style-name="T11">This means only one thing: We are moving toward it.</text:span> With this writing, <text:span text:style-name="T11">I do not intend to </text:span><text:span text:style-name="T5">change</text:span><text:span text:style-name="T2"> the future. Rather, I </text:span><text:span text:style-name="T3">hope to propose a</text:span><text:span text:style-name="T2"> starting point for a clear and cogent </text:span><text:span text:style-name="T5">definition</text:span><text:span text:style-name="T2"> of the future that&apos;s already beginning to play out, such that as we move toward that future, we will step more deftly, confidently, and purposefully. In the true sense of Open Source, the publication exists in the public domain, to be further refined by all. </text:span><text:span text:style-name="T3">(See this Github page for more information.)</text:span></text:p>
+      <text:p text:style-name="P7">If you&apos;re unfamiliar with “open source”, try starting with <text:a xlink:type="simple" xlink:href="https://medium.com/@nayafia/evolving-the-term-open-source-902ce28a59b2#.yiltb4fwq" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">this Medium post</text:a>. I like it because it&apos;s a relatively non-dogmatic, unstructured discussion about open philosophies, but also points to a formal and official definition of “open source”.</text:p></text:note-body></text:note> transcends the software development world and touches the core of human knowledge and collective thought power. It’s a future with immense possibilitie<text:span text:style-name="T7">s, and today the world is taking its first teetering steps in the direction of this future.</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T9">And it&apos;s happening across all sectors. At a frantic pace</text:span>, the lines are blurring between consumer and producer, manager and employee, decision-maker and constituent. Companies like Uber and AirBnB <text:span text:style-name="T8">have defined “latent supply” models that give everyday people access to economies once only accessible to insiders and “owners”. The 3D printer and Etsy have rocketed to the fore the real possibility of the stay-at-home manufacturer. Wikipedia has open-sourced knowledge, and Twitter and Facebook have provided information super-highways, putting power in the hands of hundreds of millions who would never have realized their own potential just 2 decades prior.</text:span></text:p>
+   <text:p text:style-name="P5">Furthermore, our culture is changing – fast. The new cultural avant-guard is <text:span text:style-name="T10">collaboration.</text:span></text:p>
+   <text:p text:style-name="P6">Yet even still, <text:span text:style-name="T11">imminent as it is,</text:span> we are not living in an Open World. <text:span text:style-name="T11">This means only one thing: We are moving toward it.</text:span> With this writing, <text:span text:style-name="T11">I do not intend to </text:span><text:span text:style-name="T5">change</text:span><text:span text:style-name="T2"> the future. Rather, I </text:span><text:span text:style-name="T3">hope to propose a</text:span><text:span text:style-name="T2"> starting point for a clear and cogent </text:span><text:span text:style-name="T5">definition</text:span><text:span text:style-name="T2"> of the future that&apos;s already beginning to play out, such that as we move toward that future, we will step more deftly, confidently, and purposefully. In the true sense of Open Source, the publication exists in the public domain, to be further refined by all. </text:span><text:span text:style-name="T3">(See this Github page for more information.)</text:span></text:p>
    <text:p text:style-name="P2">So how is an Open Source Social Sector different from the social sector we have today? Well, at its core is collaboration, but collaboration like we&apos;ve never seen it before, enabled by tools that haven&apos;t been invented yet and powered by the Open Source philosophy that has come of age in the 21st century with projects like Linux and Android and companies like Red Hat. This trend — if we can nurture it — could mean the end of competition in the social sector, and a shift from the current &quot;wild west&quot;, every-man-for-himself approach to a whole-system approach founded in the &quot;Team of Teams&quot; philosophy espoused by Stanley McChrystal&apos;s book of the same name.</text:p>
    <text:p text:style-name="P2">“Keep your money. <text:span text:style-name="T10">We</text:span> need your time and your energy. <text:span text:style-name="T10">We</text:span> need your knowledge and your wisdom. <text:span text:style-name="T10">We</text:span> need your networks and your voice….”</text:p>
   </office:text>

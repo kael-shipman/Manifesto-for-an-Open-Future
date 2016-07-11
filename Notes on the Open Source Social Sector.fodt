@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:generator>LibreOffice/5.0.6.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:title/><meta:initial-creator/><meta:editing-cycles>14</meta:editing-cycles><dc:date>2016-07-11T15:03:31.638394893</dc:date><meta:editing-duration>PT2H9M46S</meta:editing-duration><dc:creator>Kael Shipman</dc:creator><meta:document-statistic meta:character-count="3747" meta:image-count="0" meta:non-whitespace-character-count="3252" meta:object-count="0" meta:page-count="3" meta:paragraph-count="64" meta:table-count="0" meta:word-count="595"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/5.0.6.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:title/><meta:initial-creator/><meta:editing-cycles>29</meta:editing-cycles><dc:date>2016-07-11T17:40:29.891133158</dc:date><meta:editing-duration>PT3H10M8S</meta:editing-duration><dc:creator>Kael Shipman</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="103" meta:word-count="1736" meta:character-count="10655" meta:non-whitespace-character-count="9086"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">82173</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">31408</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">14818</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">45933</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">19863</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">19375</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">36006</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">21978</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">98723</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">31406</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">14817</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">82173</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">45932</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">102034</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">75</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
@@ -68,7 +68,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2553266</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3070282</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -114,7 +114,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -131,11 +133,11 @@
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="US" style:font-name-asian="Times New Roman" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Times New Roman" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="en" style:country-complex="US"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:orphans="2" fo:widows="2" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.5in" style:writing-mode="page"/>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="US" style:font-name-asian="Times New Roman" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="en" style:country-complex="US"/>
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.5in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Times New Roman" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="en" style:country-complex="US" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:default-style>
   <style:default-style style:family="table">
    <style:table-properties table:border-model="collapsing"/>
@@ -153,6 +155,14 @@
   </style:style>
   <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="120%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list"/>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" fo:font-style="italic" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
   </style:style>
   <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
    <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" fo:keep-together="always" fo:break-before="auto" fo:break-after="auto" fo:keep-with-next="always" style:writing-mode="lr-tb"/>
@@ -188,14 +198,6 @@
   <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Standard" style:class="chapter">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.139in" loext:contextual-spacing="false" fo:line-height="115%" fo:keep-together="always" fo:break-before="auto" fo:break-after="auto" fo:keep-with-next="always" style:writing-mode="lr-tb"/>
    <style:text-properties fo:color="#666666" style:font-name="Trebuchet MS" fo:font-family="&apos;Trebuchet MS&apos;" fo:font-size="13pt" fo:font-style="italic" style:font-name-asian="Trebuchet MS" style:font-family-asian="&apos;Trebuchet MS&apos;" style:font-size-asian="13pt" style:font-style-asian="italic" style:font-name-complex="Trebuchet MS" style:font-family-complex="&apos;Trebuchet MS&apos;" style:font-size-complex="13pt" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list"/>
-  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
-   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
-   <style:text-properties fo:font-size="10pt" fo:font-style="italic" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
-   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
   </style:style>
   <style:style style:name="Default_20_Paragraph_20_Font" style:display-name="Default Paragraph Font" style:family="text"/>
   <style:style style:name="List1Level0" style:family="text">
@@ -336,108 +338,238 @@
    <style:text-properties officeooo:rsid="0019304f" officeooo:paragraph-rsid="0019304f"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="00155173" officeooo:paragraph-rsid="00155173"/>
-  </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="00176e1e" officeooo:paragraph-rsid="00176e1e"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="000e64de"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0010b69f" officeooo:paragraph-rsid="0010b69f"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00176e1e" officeooo:paragraph-rsid="00176e1e"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7">
-   <style:text-properties officeooo:rsid="001dd4d9" officeooo:paragraph-rsid="001dd4d9"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" style:writing-mode="lr-tb"/>
    <style:text-properties officeooo:rsid="000f7e4c" officeooo:paragraph-rsid="000f7e4c"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="LS1">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" style:writing-mode="lr-tb"/>
    <style:text-properties officeooo:paragraph-rsid="000e6728"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="LS1">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" style:writing-mode="lr-tb"/>
    <style:text-properties officeooo:paragraph-rsid="000e64de"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="LS1">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:rsid="000e6728" officeooo:paragraph-rsid="000e6728"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="LS1">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000e6728"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="LS1">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000e64de"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="0019d1eb" officeooo:paragraph-rsid="0019d1eb"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="00135a46" officeooo:paragraph-rsid="00135a46"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="00155173" officeooo:paragraph-rsid="00155173"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="001a6cc0" officeooo:paragraph-rsid="001e7e23"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="0016db0c" officeooo:paragraph-rsid="0016db0c"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="00176e1e" officeooo:paragraph-rsid="00176e1e"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="001f4e21" officeooo:paragraph-rsid="001f4e21"/>
+   <style:text-properties officeooo:rsid="0019d1eb" officeooo:paragraph-rsid="0019d1eb"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="001cbe93" officeooo:paragraph-rsid="001cbe93"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="001dd4d9" officeooo:paragraph-rsid="001dd4d9"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="002014e4" officeooo:paragraph-rsid="002014e4"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="00135a46" officeooo:paragraph-rsid="00135a46"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001a6cc0" officeooo:paragraph-rsid="001e7e23"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="0016db0c" officeooo:paragraph-rsid="0016db0c"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001f4e21" officeooo:paragraph-rsid="001f4e21"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001cbe93" officeooo:paragraph-rsid="001cbe93"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001dd4d9" officeooo:paragraph-rsid="001dd4d9"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="000e6728"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="000e64de"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="002014e4" officeooo:paragraph-rsid="002014e4"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="00135a46" officeooo:paragraph-rsid="00135a46"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="001a6cc0" officeooo:paragraph-rsid="001a6cc0"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="0021ee83" officeooo:paragraph-rsid="0021ee83"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="Standard">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="000e64de"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0010b69f" officeooo:paragraph-rsid="0010b69f"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00176e1e" officeooo:paragraph-rsid="00176e1e"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001dd4d9" officeooo:paragraph-rsid="001dd4d9"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="002014e4" officeooo:paragraph-rsid="002014e4"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="00135a46" officeooo:paragraph-rsid="00135a46"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001a6cc0" officeooo:paragraph-rsid="001a6cc0"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="0021ee83" officeooo:paragraph-rsid="0021ee83"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="0027a9e5" officeooo:paragraph-rsid="0027a9e5"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="0027a9e5" officeooo:paragraph-rsid="00280028"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7">
+   <style:text-properties officeooo:rsid="001dd4d9" officeooo:paragraph-rsid="001dd4d9"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="000f7e4c" officeooo:paragraph-rsid="000f7e4c"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="LS1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="000e6728"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="LS1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="000e64de"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="LS1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="000e6728" officeooo:paragraph-rsid="000e6728"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="00278a04" officeooo:paragraph-rsid="00278a04"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="LS1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="000e6728"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="LS1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="000e64de"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="0019d1eb" officeooo:paragraph-rsid="0029d0dc"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="0019d1eb" officeooo:paragraph-rsid="0019d1eb"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="00135a46" officeooo:paragraph-rsid="0029d0dc"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001a6cc0" officeooo:paragraph-rsid="001e7e23"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001a6cc0" officeooo:paragraph-rsid="001e7e23"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="0016db0c" officeooo:paragraph-rsid="0016db0c"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001f4e21" officeooo:paragraph-rsid="001f4e21"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001f4e21" officeooo:paragraph-rsid="001f4e21"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001cbe93" officeooo:paragraph-rsid="001cbe93"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001cbe93" officeooo:paragraph-rsid="001cbe93"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001dd4d9" officeooo:paragraph-rsid="001dd4d9"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="0027a9e5" officeooo:paragraph-rsid="00280028"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="00280028" officeooo:paragraph-rsid="00280028"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="00280028" officeooo:paragraph-rsid="00280028"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="0029d0dc" officeooo:paragraph-rsid="0029d0dc"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="0029d0dc" officeooo:paragraph-rsid="0029d0dc"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="002a2229" officeooo:paragraph-rsid="002a2229"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="002a2229" officeooo:paragraph-rsid="002bb2c6"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="002bb2c6" officeooo:paragraph-rsid="002bb2c6"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="002c8793" officeooo:paragraph-rsid="002c8793"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="002d7f58" officeooo:paragraph-rsid="002d7f58"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="Standard">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -462,31 +594,70 @@
    <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties officeooo:rsid="0019851e"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="00278773" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties officeooo:rsid="001a6cc0"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="00278a04" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties officeooo:rsid="001c4432"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="002cffce" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="002d7f58" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00135a46" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="002ed94a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties officeooo:rsid="001e7e23"/>
+   <style:text-properties officeooo:rsid="0019851e"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties officeooo:rsid="001f4e21"/>
+   <style:text-properties officeooo:rsid="001a6cc0"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="001c4432"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00135a46" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="002bb2c6" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties officeooo:rsid="001e7e23"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties officeooo:rsid="001f4e21"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="002bb2c6" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
    <style:text-properties officeooo:rsid="00235ce4"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties officeooo:rsid="00278a04"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="00280028"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties officeooo:rsid="0029d0dc"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties officeooo:rsid="002bb2c6"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties officeooo:rsid="002d7f58"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="002cffce" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
@@ -872,8 +1043,8 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P32">Notes</text:p>
-   <text:p text:style-name="P1">Open Books <text:span text:style-name="T8">(finances)</text:span></text:p>
+   <text:p text:style-name="P65">Notes</text:p>
+   <text:p text:style-name="P1">Open Books <text:span text:style-name="T13">(finances)</text:span></text:p>
    <text:p text:style-name="P1">Open Strategy</text:p>
    <text:p text:style-name="P1">Open Culture</text:p>
    <text:p text:style-name="P1">Open Execution</text:p>
@@ -881,179 +1052,315 @@
    <text:p text:style-name="P2"/>
    <text:p text:style-name="P2">“Open” doesn&apos;t imply “Free” – services and products can still be sold.</text:p>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P4">How do we beat the overhead of collaboration for small nonprofits? Maybe make them<text:span text:style-name="T7"> like bigger nonprofits.</text:span></text:p>
+   <text:p text:style-name="P4">How do we beat the overhead of collaboration for small nonprofits? Maybe make them<text:span text:style-name="T7"> like bigger nonprofits. </text:span><text:span text:style-name="T8">Collaboration is easier in a big nonprofit because someone (like the ED) can devote time to fostering the connections and communication. Furthermore, the person who is fostering the connection is an “insider” in the organization, i.e., a leader who is trusted by organizational staff and who has proven that he or she is making decisions that are good for the organization. </text:span><text:span text:style-name="T9">If a third party tried to assume this role, it wouldn&apos;t work because the staff wouldn&apos;t be willing to accept the recommendations that the person makes. “Collaboration assistants” that work directly with the ED, maybe??</text:span><text:span text:style-name="T8"> </text:span></text:p>
    <text:p text:style-name="P2"/>
    <text:p text:style-name="P2">There&apos;s a “soft” component to the Open Social Sector, and there&apos;s a “hard” component:</text:p>
    <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2">Soft component is the creation and storage of resources in a way that allows and encourages openness and sharing. <text:span text:style-name="T3">This includes learning protocols for:</text:span></text:p>
-   <text:list xml:id="list3945472442385914151" text:style-name="L1">
+   <text:p text:style-name="P2">Soft component is the creation and storage of resources in a way that allows and encourages openness and sharing. <text:span text:style-name="T3">This includes staff learning protocols for:</text:span></text:p>
+   <text:list xml:id="list8031450097856987402" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P12">Data storage and publishing</text:p>
+     <text:p text:style-name="P36">Data storage and publishing</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12"><text:span text:style-name="T4">Inter-organizational co</text:span>mmunication</text:p>
+     <text:p text:style-name="P36"><text:span text:style-name="T4">Inter-organizational co</text:span>mmunication</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12">Merg<text:span text:style-name="T4">ing</text:span></text:p>
+     <text:p text:style-name="P36">Merg<text:span text:style-name="T4">ing</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12">Program reporting</text:p>
+     <text:p text:style-name="P36">Program <text:span text:style-name="T24">Metrics and</text:span> reporting</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12">Financial reporting</text:p>
+     <text:p text:style-name="P36">Financial reporting</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12"/>
+     <text:p text:style-name="P40">Record-keeping in general</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P2"/>
    <text:p text:style-name="P2">Hard component is the background tools and processes that enable this sharing and openness.</text:p>
    <text:p text:style-name="P2"/>
-   <text:p text:style-name="P8">Hard Component</text:p>
+   <text:p text:style-name="P24">Hard Component</text:p>
    <text:p text:style-name="Text_20_body">The engine behind the open source social sector is like an operating system for a computer:</text:p>
-   <text:list xml:id="list3591124222229467049" text:style-name="LS1">
+   <text:list xml:id="list717484247284874715" text:style-name="LS1">
     <text:list-item>
-     <text:p text:style-name="P16"><text:span text:style-name="T1">Maintains an overall view of the system, including system </text:span>statistics regarding resource usage and availability, etc.</text:p>
+     <text:p text:style-name="P41"><text:span text:style-name="T1">Maintains an overall view of the system, including system </text:span>statistics regarding resource usage and availability, etc.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13">Facilitates system-wide record-keeping</text:p>
+     <text:p text:style-name="P37">Facilitates system-wide record-keeping</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P15">Optimizes the system as a whole, rather than any one of the parts.</text:p>
+     <text:p text:style-name="P39">Optimizes the system as a whole, rather than any one of the parts.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:span text:style-name="T2">Coordinates, aligns, and f</text:span>acilitates communication <text:span text:style-name="T1">among components</text:span></text:p>
+     <text:p text:style-name="P42"><text:span text:style-name="T2">Coordinates, aligns, and f</text:span>acilitates communication <text:span text:style-name="T1">among components</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">Facilitates interoperability and allows for the existence of interdependence (Android: Intents)</text:p>
+     <text:p text:style-name="P38">Facilitates interoperability and allows for the existence of interdependence (Android: Intents)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P15">Maximizes resource flow through system to components (i.e., actively undermines inefficient bureaucracies).</text:p>
+     <text:p text:style-name="P39"><text:soft-page-break/>Maximizes resource flow through system to components (i.e., actively undermines inefficient bureaucracies).</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="Title">General Outline</text:p>
-   <text:p text:style-name="P9">Introduction</text:p>
-   <text:list xml:id="list6283985147773647206" text:style-name="L2">
+   <text:p text:style-name="P25">Introduction</text:p>
+   <text:p text:style-name="P55"><text:span text:style-name="T21"/></text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T21">Coming out of the introduction, we now know that I&apos;m writing a manifesto that aims to describe – not </text:span><text:span text:style-name="T16">prescribe</text:span><text:span text:style-name="T21"> – what the open future, and specifically the open social sector, will look like. Furthermore, we know that I&apos;m writing this to inspire a shared vision of the Open Future, such that as we innovate together for social good (for-profit or nonprofit), we&apos;ll be furthering the same ideology, rather than inadvertently opposing each other and hindering progress.</text:span></text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T21"/></text:p>
+   <text:list xml:id="list2313991182139372897" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P28">Recognition of the Open movement</text:p>
+     <text:p text:style-name="P29">Recognition of the Open movement</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29"><text:soft-page-break/>Recognition of the point of inflectio<text:span text:style-name="T9">n:</text:span></text:p>
+     <text:p text:style-name="P30">Recognition of the point of inflectio<text:span text:style-name="T14">n:</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P30">Technology</text:p>
+       <text:p text:style-name="P31">Technology</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P30">Interconnectedness</text:p>
+       <text:p text:style-name="P31">Interconnectedness</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P30">Abundance of Resources</text:p>
+       <text:p text:style-name="P31">Abundance of Resources</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P30">Several tipping points (environmental, <text:span text:style-name="T16">conflict</text:span>, etc.) <text:span text:style-name="T10">(??)</text:span></text:p>
+       <text:p text:style-name="P31">Several tipping points (environmental, <text:span text:style-name="T23">conflict</text:span>, etc.) <text:span text:style-name="T15">(??)</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Recognition of the inevitability of the movement.</text:p>
+     <text:p text:style-name="P30">Recognition of the inevitability of the movement.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Recognition that this manifesto doesn&apos;t change the future, rather, it helps to better define the future, such that we move more deftly toward it:</text:p>
+     <text:p text:style-name="P33">How this applies specifically to the social sector</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P30">Recognition that this manifesto doesn&apos;t change the future, rather, it helps to better define the future, such that we move more deftly toward it:</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P31">Finally, it&apos;s important to note that this manifesto is not intended to <text:span text:style-name="T11">change</text:span><text:span text:style-name="T15"> the future. Rather, I submit it as the starting point for a clear and cogent </text:span><text:span text:style-name="T11">definition</text:span><text:span text:style-name="T15"> of the future that&apos;s already beginning to play out, such that as we move toward that future, we will step more deftly, confidently, and purposefully. In the true sense of Open Source, the publication exists in the public domain, to be further refined by all.</text:span></text:p>
+       <text:p text:style-name="P32">Finally, it&apos;s important to note that this manifesto is not intended to <text:span text:style-name="T16">change</text:span><text:span text:style-name="T21"> the future. Rather, I submit it as the starting point for a clear and cogent </text:span><text:span text:style-name="T16">definition</text:span><text:span text:style-name="T21"> of the future that&apos;s already beginning to play out, such that as we move toward that future, we will step more deftly, confidently, and purposefully. In the true sense of Open Source, the publication exists in the public domain, to be further refined by all.</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Heading_20_1">Background</text:p>
-   <text:list xml:id="list1020080325195959530" text:style-name="L3">
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P55">Coming out of this section, we should fully understand the elements that support the vision, <text:span text:style-name="T25">and the arguments supporting the legitimacy of the claim should be well made. In other words, we should be willing to concede that the premise is true: the future will be open.</text:span></text:p>
+   <text:p text:style-name="P55"/>
+   <text:list xml:id="list9043460058161740169" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P18">Growth of the sector: need to prepare for overlaps.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P19">Blurring of the lines between social sector and business sector</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P19">Recognition that the mechanics of operations are the same, regardless of sector</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P19">Tendency toward coordination: InterAction, et al.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P20">Peter Drucker: The Age of Social Transformation</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="Heading_20_1">What “Open” Means</text:p>
-   <text:list xml:id="list3034285171661623257" text:style-name="L4">
-    <text:list-item>
-     <text:p text:style-name="P21"><text:span text:style-name="T5">“Open” as opposed to “Transparent”: Transparent is passive. You “allow” people to see. “Open” is transparency combined with purpose; it&apos;s a lifestyle. You </text:span><text:span text:style-name="T12">want</text:span><text:span text:style-name="T5"> people to join you, and you want to join others. You want people to know what you&apos;re doing and how because you believe that being open is concretely more productive than just being transparent.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P22">No secrets (or at least fewer secrets) – <text:span text:style-name="T13">analyze motivations for secrets</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P22">Alignment with an external, rather than internal, goal <text:span text:style-name="T6">(constituent benefit, rather than organizational benefit)</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P23">Fluidity of brand and entity – commoditization of services?</text:p>
+     <text:p text:style-name="P58">How we&apos;ve done it for many decades: individual identifies problem, creates solution, solution grows from local to global on the wings of donor money.</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P23">Why this is very hard</text:p>
+       <text:p text:style-name="P58">Funding was less democratic: solution-providers had more personal relationships with funders. This allowed organizations to operate under less scrutiny. Consistently-funded organizations were able to bank on “assumed success” which drove more donations.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P23">Why this is very important</text:p>
+       <text:p text:style-name="P58"><text:soft-page-break/>For many years, we were allowed to <text:span text:style-name="T16">assume</text:span><text:span text:style-name="T21"> that our programs were successful without any hard metrics. (In the business world, we were allowed to </text:span><text:span text:style-name="T16">tell</text:span><text:span text:style-name="T21"> the customer that he benefited from the product without providing proof. Now we have Amazon reviews.)</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P23">What it means to “commoditize” your service</text:p>
+       <text:p text:style-name="P58"><text:span text:style-name="T21">This all worked fine while the scale was small</text:span></text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P58"><text:span text:style-name="T21">Now the sector is growing in importance.</text:span></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P58"><text:span text:style-name="T21">(Insert Peter Drucker here).</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P23">Requirements for commoditization: must achieve a reliable standard quality.</text:p>
+       <text:p text:style-name="P58"><text:span text:style-name="T21">Blurring of the lines between the business sector and the social sector: many of the mechanics of operations are the same.</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P58"><text:span text:style-name="T21">Changing measures of success: No longer just GDP, now also national happiness.</text:span></text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P43"><text:span text:style-name="T26">As scale increases and the sector grows, we have to meet new challenges:</text:span></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P58">Need to replace trust with information</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P58">Product efficacy metrics (does this product or program really benefit you/its target beneficiaries?)</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P58">Financial management metrics: Who is gaining, who is losing, and is that alright?</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P58">Strategy/Execution information: What sorts of corners are we cutting, and where could we stand to cut more? Is our strategy having negative impacts somewhere else in the system?</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P43"><text:span text:style-name="T26">N</text:span>eed to prepare <text:span text:style-name="T26">better</text:span> for overlaps</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P58">How will branding work? If two strong brands overlap, we get competition.</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P58">Need business models and processes that allow for sharing of central operational pieces among brands.</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P45"><text:span text:style-name="T26">The beginning</text:span></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P45">Tendency toward coordination <text:span text:style-name="T26">proven with</text:span> InterAction, et al.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P58">The Open Organization</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P58">Canvas</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P58">Ubuntu</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P58">LibreOffice</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P58">Chrome</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P58">Android</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P58">Wikipedia</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P58">Team of Teams</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="Heading_20_1">Challenges <text:span text:style-name="T14">to</text:span> an Open Future</text:p>
-   <text:list xml:id="list1569064249636286334" text:style-name="L5">
+   <text:p text:style-name="Heading_20_1">What “Open” Means</text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P56">Coming out of this section, we should understand the boundaries of “open” as applied to business-to-business, business-to-consumer, and consumer-to-consumer interactions. We should have a decent idea of what it might look like to run our lives in an “open” way. We also come away with a few identifiers to help us know whether or not a certain action is “open”.</text:p>
+   <text:p text:style-name="P56"/>
+   <text:list xml:id="list2395549658599800241" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P24">Personal emotional investment – shouldn&apos;t be dismissed as “pride” or “ego” or “hubris”.</text:p>
+     <text:p text:style-name="P63">To really understand what “open” means to the real world, we have to redefine the nature of our day-to-day interpersonal interactions. Traditionally, we&apos;ve had friends and <text:soft-page-break/>family, strangers, acquaintances, businesses and consumers (among others). If you distill these relationships, though, two profiles emerge: provider and beneficiary.</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P63">Family and friends provide you love and support, which you benefit from, and vice versa.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P63">Strangers and acquaintance relationships are more subtle: You provide each other opportunities – information at a bus stop, help across a busy street, a spare quarter at the supermarket, a friendly smile in a strange place – which you both benefit from.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P63">And businesses provide products and services which both other businesses and consumers benefit from, in exchange for money, which the <text:span text:style-name="T28">businesses</text:span> benefit from.</text:p>
+      </text:list-item>
+     </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Constituent investment</text:p>
+     <text:p text:style-name="P63">The open future erases the distinction between business and consumer: because production of products or services is increasingly democratic – intimately linked to the needs and wants of increasingly large groups of beneficiaries – <text:span text:style-name="T29">we can look at the world as a collective pool of products and services produced by all, for the benefit of all.</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T11">You are “open” if you produce for the pool with hopes only that someone will benefit from your labor.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Branding</text:p>
+     <text:p text:style-name="P64"><text:span text:style-name="T11">T</text:span><text:span text:style-name="T7">his does not mean that money won&apos;t exist. Quite to the contrary, I believe the actual role of money in the system will change very little. What will change is the way it is transferred among </text:span><text:span text:style-name="T12">people. Beneficiaries will pay up front for the implementation of products and services that they wish to exist. Providers will still innovate beyond the imaginations of beneficiaries just as they do now: by convincing beneficiaries of the value of the product they envision. </text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24"><text:soft-page-break/>Access to decision-makers (lack of access causes constituent disenfranchisement, which incentivizes status quo, i.e., NOT collaborating)</text:p>
+     <text:p text:style-name="P60">Open is abstract. What does it mean in real life?</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P61">Open may be defined as a state of being in which the sharing of information is seen as inherently valuable.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P61">An “open” person admits failures because he or she sees this penance as both an opportunity to learn and a motivation to improve.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P61">An “open” person shares ideas and implementations because he or she sees the absolute benefit of the product to society, rather than concealing ideas and implementations so that he or she might benefit from them.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P61">An “open” person <text:span text:style-name="T27">is not passively transparent; rather, he or she </text:span><text:span text:style-name="T18">seeks</text:span><text:span text:style-name="T22"> opportunities to share ideas and information and to collaborate.</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P62"><text:span text:style-name="T21">An “open” person does not concern him or herself with ownership. To work on his own project is equivalent to working on someone else&apos;s project. What matters to him is the quality and speed of delivery of the product or service to the beneficiary.</text:span></text:p>
+      </text:list-item>
+     </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24"/>
+     <text:p text:style-name="P62"><text:span text:style-name="T21">Redefine Business and Consumer: “Provider” and “Beneficiary”.</text:span></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P62"><text:span text:style-name="T21">More than just marketing: mindset shift, evidenced by certain characteristics including:</text:span></text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P62"><text:span text:style-name="T21">Willingness to share knowledge</text:span></text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P62"><text:span text:style-name="T21">Desire to improve benefit for beneficiaries</text:span></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P46"><text:span text:style-name="T5">“Open” as opposed to “Transparent”: Transparent is passive. You “allow” people to see. “Open” is transparency combined with purpose; it&apos;s a lifestyle. You </text:span><text:span text:style-name="T17">want</text:span><text:span text:style-name="T5"> people to join you, and you want to join others. You want people to know what you&apos;re doing and how </text:span><text:soft-page-break/><text:span text:style-name="T5">because you believe that being open is concretely more productive than just being transparent.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P48">No secrets (or at least fewer secrets) – <text:span text:style-name="T19">analyze motivations for secrets</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P48">Alignment with an external, rather than internal, goal <text:span text:style-name="T6">(constituent benefit, rather than organizational benefit)</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P59">Commoditization: Good or bad? Destroys brand identity, but creates social infrastructure.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P10">Models for an Open Future</text:p>
-   <text:list xml:id="list5033187759518944572" text:style-name="L6">
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="Heading_20_1">Challenges <text:span text:style-name="T20">to</text:span> an Open Future</text:p>
+   <text:p text:style-name="P15"/>
+   <text:p text:style-name="P56">Coming out of this section, we should be able to identify when something is getting in the way of the open future. This section should include problem categorizations paired with real-world examples and how the action might change in an “open” future.</text:p>
+   <text:p text:style-name="P56"/>
+   <text:list xml:id="list1544810003695447335" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P25">The [n] Habits of an Open Organization</text:p>
+     <text:p text:style-name="P49">Personal emotional investment – shouldn&apos;t be dismissed as “pride” or “ego” or “hubris”.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">Software: The California of Enterprise</text:p>
+     <text:p text:style-name="P49">Constituent investment</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">The Franchise</text:p>
+     <text:p text:style-name="P49">Branding</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27"/>
+     <text:p text:style-name="P49">Access to decision-makers (lack of access causes constituent disenfranchisement, which incentivizes status quo, i.e., NOT collaborating)</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P57">Technology not yet caught up. Still need a directory; still need open data and data analysis; still need better integration of communications platforms (for example, doodle polls right in facebook; open Auth needs to be standard); still need better ways to collaborate on documents; still need better integration among software….</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P26">Models for an Open Future</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P56">Coming out of this section, we should have in hand a concrete set of tools that we can use to encourage and prepare for an open future. This should include a discussion of how to fill the gaps mentioned in the previous section, as well as new practices that we can already implement <text:s/>as-is.</text:p>
+   <text:p text:style-name="P56"/>
+   <text:list xml:id="list4793458362560876175" text:style-name="L6">
+    <text:list-item>
+     <text:p text:style-name="P51">The [n] Habits of an Open Organization</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P53">Software: The California of Enterprise</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P54">The Franchise</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P54"/>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P8"/>
    <text:p text:style-name="Heading_20_1">[Sidebars]</text:p>
-   <text:list xml:id="list5466737999471044889" text:style-name="L7">
+   <text:list xml:id="list124758856074157539" text:style-name="L7">
     <text:list-item>
-     <text:p text:style-name="P11">“What It Looks Like” – pictorial descriptions of how open organizations of various scales and foci interact.</text:p>
+     <text:p text:style-name="P35">“What It Looks Like” – pictorial descriptions of how open organizations of various scales and foci interact.</text:p>
     </text:list-item>
    </text:list>
   </office:text>
