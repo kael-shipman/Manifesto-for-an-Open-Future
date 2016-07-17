@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:generator>LibreOffice/5.0.6.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:title/><meta:initial-creator/><dc:creator>Kael Shipman</dc:creator><meta:editing-cycles>81</meta:editing-cycles><dc:date>2016-07-15T12:30:59.901036863</dc:date><meta:editing-duration>P1DT6H50M22S</meta:editing-duration><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="56" meta:word-count="3010" meta:character-count="19065" meta:non-whitespace-character-count="16092"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/5.0.6.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:title/><meta:initial-creator/><dc:creator>Kael Shipman</dc:creator><meta:editing-cycles>150</meta:editing-cycles><dc:date>2016-07-15T19:31:01.977644695</dc:date><meta:editing-duration>P1DT11H15M35S</meta:editing-duration><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="57" meta:word-count="3637" meta:character-count="23154" meta:non-whitespace-character-count="19548"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">127282</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">145274</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">35482</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">15612</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">9486</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">133135</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15886</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">146001</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">127282</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">145274</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">35481</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">142893</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">160884</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -68,7 +68,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">6272485</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">7004020</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -398,111 +398,124 @@
    <style:text-properties officeooo:rsid="00201282" officeooo:paragraph-rsid="00223fda"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="002e03aa" officeooo:paragraph-rsid="002e03aa"/>
+   <style:paragraph-properties fo:line-height="115%" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="001db86e" officeooo:paragraph-rsid="00651d7a"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="002ebb0e" officeooo:paragraph-rsid="004178b2"/>
+   <style:text-properties officeooo:rsid="002e03aa" officeooo:paragraph-rsid="002e03aa"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0032fc94" officeooo:paragraph-rsid="0032fc94"/>
+   <style:text-properties officeooo:rsid="002ebb0e" officeooo:paragraph-rsid="004178b2"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0034026d" officeooo:paragraph-rsid="0034026d"/>
+   <style:text-properties officeooo:rsid="0032fc94" officeooo:paragraph-rsid="0032fc94"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00346299" officeooo:paragraph-rsid="00346299"/>
+   <style:text-properties officeooo:rsid="0034026d" officeooo:paragraph-rsid="0034026d"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00357ae1" officeooo:paragraph-rsid="00357bb5"/>
+   <style:text-properties officeooo:rsid="00346299" officeooo:paragraph-rsid="00346299"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00384077" officeooo:paragraph-rsid="00384077"/>
+   <style:text-properties officeooo:rsid="00357ae1" officeooo:paragraph-rsid="00357bb5"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="00384077" officeooo:paragraph-rsid="00384077"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="00384077" officeooo:paragraph-rsid="00393a00"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="00393a00" officeooo:paragraph-rsid="00393a00"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="003980e0" officeooo:paragraph-rsid="003980e0"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="003980e0" officeooo:paragraph-rsid="00447e77"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="003fc303" officeooo:paragraph-rsid="00447e77"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0043677d" officeooo:paragraph-rsid="004c30d0"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="00447e77" officeooo:paragraph-rsid="004816c2"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00464557" officeooo:paragraph-rsid="00464557"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="004816c2" officeooo:paragraph-rsid="004816c2"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="005020e7" officeooo:paragraph-rsid="005020e7"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0052cdcb" officeooo:paragraph-rsid="0052cdcb"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="00575240" officeooo:paragraph-rsid="00575240"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="005921e3" officeooo:paragraph-rsid="005921e3"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="005921e3" officeooo:paragraph-rsid="00597c2b"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="00597c2b" officeooo:paragraph-rsid="00597c2b"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="005a642b" officeooo:paragraph-rsid="005a642b"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="005cd297" officeooo:paragraph-rsid="005cd297"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="005dbcde" officeooo:paragraph-rsid="005dbcde"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="005fb5e5" officeooo:paragraph-rsid="005fb5e5"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="005fb5e5" officeooo:paragraph-rsid="00651d7a"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0060632b" officeooo:paragraph-rsid="0060632b"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00615cf4" officeooo:paragraph-rsid="00615cf4"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0066ac85" officeooo:paragraph-rsid="0066ac85"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0066ac85" officeooo:paragraph-rsid="0069f19c"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0067807a" officeooo:paragraph-rsid="0067807a"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00685d1f" officeooo:paragraph-rsid="0069f19c"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0069f19c" officeooo:paragraph-rsid="006a1e96"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="004178b2" officeooo:paragraph-rsid="004178b2"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:line-height="115%" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00615cf4" officeooo:paragraph-rsid="00615cf4"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto"/>
    <style:text-properties officeooo:rsid="002e03aa" officeooo:paragraph-rsid="002e03aa"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="Standard">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="Standard">
    <style:paragraph-properties fo:line-height="115%" style:page-number="auto" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
    <style:text-properties officeooo:rsid="001a767c" officeooo:paragraph-rsid="001a767c"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Footnote">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Footnote">
    <style:text-properties officeooo:rsid="0028f530" officeooo:paragraph-rsid="0032fc94"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Footnote">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Footnote">
    <style:text-properties officeooo:rsid="0059daf7" officeooo:paragraph-rsid="0059daf7"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Footnote">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Footnote">
    <style:text-properties officeooo:rsid="005c3522" officeooo:paragraph-rsid="005c3522"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Footnote">
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Footnote">
    <style:text-properties officeooo:rsid="005dbcde" officeooo:paragraph-rsid="005dbcde"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties officeooo:rsid="0069f19c" officeooo:paragraph-rsid="0069f19c"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
@@ -565,147 +578,241 @@
    <style:text-properties fo:font-style="normal" officeooo:rsid="005cd297" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0060632b" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="0021ee83" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00615cf4" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00201282" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00651d7a" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00384077" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="0060632b" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="005921e3" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00615cf4" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="0059daf7" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00651d7a" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties officeooo:rsid="00148c2e"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties officeooo:rsid="00160b80"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0021ee83" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties officeooo:rsid="001781f3"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00201282" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties officeooo:rsid="001a767c"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00384077" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties officeooo:rsid="001badb1"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="005921e3" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties officeooo:rsid="001be04e"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0059daf7" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties officeooo:rsid="001c824b"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0060632b" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties officeooo:rsid="001e41d6"/>
+   <style:text-properties officeooo:rsid="00148c2e"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties style:text-position="super 58%"/>
+   <style:text-properties officeooo:rsid="00160b80"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties style:text-position="super 58%" officeooo:rsid="001e41d6"/>
+   <style:text-properties officeooo:rsid="001781f3"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties officeooo:rsid="0020015d"/>
+   <style:text-properties officeooo:rsid="001a767c"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties officeooo:rsid="00201282"/>
+   <style:text-properties officeooo:rsid="001badb1"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties officeooo:rsid="00220162"/>
+   <style:text-properties officeooo:rsid="001be04e"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties officeooo:rsid="00223fda"/>
+   <style:text-properties officeooo:rsid="001c824b"/>
   </style:style>
   <style:style style:name="T41" style:family="text">
-   <style:text-properties officeooo:rsid="002688fc"/>
+   <style:text-properties officeooo:rsid="001e41d6"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties officeooo:rsid="0027b88e"/>
+   <style:text-properties style:text-position="super 58%"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
-   <style:text-properties officeooo:rsid="002a28a9"/>
+   <style:text-properties style:text-position="super 58%" officeooo:rsid="001e41d6"/>
   </style:style>
   <style:style style:name="T44" style:family="text">
-   <style:text-properties officeooo:rsid="002c4a06"/>
+   <style:text-properties officeooo:rsid="0020015d"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties officeooo:rsid="002c84c6"/>
+   <style:text-properties officeooo:rsid="00201282"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties officeooo:rsid="002ebb0e"/>
+   <style:text-properties officeooo:rsid="00220162"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties officeooo:rsid="002fea5d"/>
+   <style:text-properties officeooo:rsid="00223fda"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties officeooo:rsid="00357ae1"/>
+   <style:text-properties officeooo:rsid="002688fc"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties officeooo:rsid="00357bb5"/>
+   <style:text-properties officeooo:rsid="0027b88e"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties officeooo:rsid="00384077"/>
+   <style:text-properties officeooo:rsid="002a28a9"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties officeooo:rsid="00393a00"/>
+   <style:text-properties officeooo:rsid="002c4a06"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties officeooo:rsid="003980e0"/>
+   <style:text-properties officeooo:rsid="002c84c6"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties officeooo:rsid="003df647"/>
+   <style:text-properties officeooo:rsid="002ebb0e"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties officeooo:rsid="0040f029"/>
+   <style:text-properties officeooo:rsid="002fea5d"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties officeooo:rsid="004178b2"/>
+   <style:text-properties officeooo:rsid="00357ae1"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties officeooo:rsid="00447e77"/>
+   <style:text-properties officeooo:rsid="00357bb5"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties officeooo:rsid="0044b8b0"/>
+   <style:text-properties officeooo:rsid="00384077"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties officeooo:rsid="0048b8bc"/>
+   <style:text-properties officeooo:rsid="003980e0"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties officeooo:rsid="00492692"/>
+   <style:text-properties officeooo:rsid="003df647"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties officeooo:rsid="004c30d0"/>
+   <style:text-properties officeooo:rsid="0040f029"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties officeooo:rsid="004e75d6"/>
+   <style:text-properties officeooo:rsid="004178b2"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties officeooo:rsid="00510349"/>
+   <style:text-properties officeooo:rsid="00447e77"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties officeooo:rsid="0052cdcb"/>
+   <style:text-properties officeooo:rsid="0044b8b0"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties officeooo:rsid="00543fed"/>
+   <style:text-properties officeooo:rsid="0048b8bc"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties officeooo:rsid="00575240"/>
+   <style:text-properties officeooo:rsid="00492692"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties officeooo:rsid="005dbcde"/>
+   <style:text-properties officeooo:rsid="004c30d0"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
+   <style:text-properties officeooo:rsid="004e75d6"/>
+  </style:style>
+  <style:style style:name="T68" style:family="text">
+   <style:text-properties officeooo:rsid="00510349"/>
+  </style:style>
+  <style:style style:name="T69" style:family="text">
+   <style:text-properties officeooo:rsid="0052cdcb"/>
+  </style:style>
+  <style:style style:name="T70" style:family="text">
+   <style:text-properties officeooo:rsid="00543fed"/>
+  </style:style>
+  <style:style style:name="T71" style:family="text">
+   <style:text-properties officeooo:rsid="00575240"/>
+  </style:style>
+  <style:style style:name="T72" style:family="text">
+   <style:text-properties officeooo:rsid="005dbcde"/>
+  </style:style>
+  <style:style style:name="T73" style:family="text">
    <style:text-properties officeooo:rsid="005fb5e5"/>
   </style:style>
+  <style:style style:name="T74" style:family="text">
+   <style:text-properties officeooo:rsid="0060632b"/>
+  </style:style>
+  <style:style style:name="T75" style:family="text">
+   <style:text-properties officeooo:rsid="00615cf4"/>
+  </style:style>
+  <style:style style:name="T76" style:family="text">
+   <style:text-properties officeooo:rsid="00651d7a"/>
+  </style:style>
+  <style:style style:name="T77" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T78" style:family="text">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0063435b" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T79" style:family="text">
+   <style:text-properties officeooo:rsid="00685d1f"/>
+  </style:style>
+  <style:style style:name="T80" style:family="text">
+   <style:text-properties officeooo:rsid="0069f19c"/>
+  </style:style>
+  <style:style style:name="T81" style:family="text">
+   <style:text-properties officeooo:rsid="006a1e96"/>
+  </style:style>
   <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L2">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
@@ -777,83 +884,72 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P45"><text:bookmark text:name="h.907qwdyyqp0p"/>Manifesto <text:span text:style-name="T31">for</text:span> <text:span text:style-name="T33">an Open Future</text:span></text:p>
-   <text:p text:style-name="P1"><text:bookmark text:name="h.tur3p4lly216"/>“The door is open to the open source way to bring success to non technology companies, schools, universities, governments — to the world.” <text:span text:style-name="T27">Jim Whitehurst, </text:span><text:span text:style-name="T1">The Open Organization</text:span></text:p>
-   <text:h text:style-name="P43" text:outline-level="10"><text:bookmark text:name="h.333yew2sv0rw"/>Introduction</text:h>
-   <text:p text:style-name="P2">In his important book, <text:span text:style-name="T21">The Open Organization</text:span>, Jim Whitehurst, <text:span text:style-name="T27">CEO of multi-billion dollar software company, Red Hat,</text:span> suggests a movement toward a future where the open-source philosophy<text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
-      <text:p text:style-name="P9">If you&apos;re unfamiliar with “open source”, try starting with <text:a xlink:type="simple" xlink:href="https://medium.com/@nayafia/evolving-the-term-open-source-902ce28a59b2#.yiltb4fwq" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">this Medium post</text:a>. I like it because it&apos;s a <text:span text:style-name="T41">gateway to a</text:span> relatively non-dogmatic, unstructured discussion about open philosophies, but also points to a formal and official definition of “open source”.</text:p></text:note-body></text:note> transcends the software development world and touches the core of human knowledge and collective thought power. It’s a future with immense possibilitie<text:span text:style-name="T28">s, and today the world is taking its first teetering steps in the direction of this future.</text:span></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T30">And it&apos;s happening across all sectors. At a frantic pace</text:span>, the lines are blurring between consumer and producer, manager and employee, decision-maker and constituent, <text:span text:style-name="T52">for-profit and nonprofit</text:span>. Companies like Uber and AirBnB <text:span text:style-name="T29">have defined “latent supply” models that give everyday people access to economies once only accessible to insiders and “owners”. The 3D printer, Etsy and Kickstarter have rocketed to the fore the real possibility of the stay-at-home manufacturer and the overnight entrepreneur. Wikipedia has open-sourced knowledge, and Twitter and Facebook have provided information super-highways, putting power in the hands of hundreds of millions who would never have known it just 2 decades prior.</text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T37">Yes, t</text:span>he <text:span text:style-name="T38">new millennium</text:span> has been a point of inflection in almost every facet: our climate is changing, <text:span text:style-name="T39">and the challenges we face are shifting and growing rapidly, but</text:span> our culture is changing, <text:span text:style-name="T39">too, and</text:span> our horizons and opportunities are expanding exponentially.</text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T34">Perhaps most significant among these changes has been the emergence of large-scale collaboration as the single most effective driver of innovation, efficiency and success in the 21</text:span><text:span text:style-name="T36">st</text:span><text:span text:style-name="T34"> century. As the physical walls come down inside offices and homes, the virtual walls – “silos” – that contain organizations are dissolving into a now-quaint past when industry secrets ruled the world and a company&apos;s advantage was defined by the degree to which it could keep its customers ignorant.</text:span></text:p>
-   <text:p text:style-name="P14">That world is no longer. Gone, too, are the traditional distinctions between nonprofits and for-profits. As these two sectors, <text:span text:style-name="T45">once</text:span> <text:span text:style-name="T45">exercising a tenuous relationship of mutual need</text:span>, move slowly toward the center, society as a whole stands to gain enormously. <text:span text:style-name="T44">Now, a new world emerges – one in which societal benefit is as fundamental to success as the financial bottom line, and one in which collaboration and information sharing is the infrastructure on which organizations are firmly founded.</text:span></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T40">With this writing, I hope to provide an idea of the possibilities of this new “open” world. In so doing, I do not intend to </text:span><text:span text:style-name="T22">change</text:span><text:span text:style-name="T2"> the future. Rather, I </text:span><text:span text:style-name="T3">hope to p</text:span><text:span text:style-name="T5">ut forth</text:span><text:span text:style-name="T2"> a clear and cogent </text:span><text:span text:style-name="T23">vision</text:span><text:span text:style-name="T2"> </text:span><text:soft-page-break/><text:span text:style-name="T2">of </text:span><text:span text:style-name="T6">a</text:span><text:span text:style-name="T2"> future that&apos;s already beginning to </text:span><text:span text:style-name="T4">emerge</text:span><text:span text:style-name="T2">, such that as we move toward that future </text:span><text:span text:style-name="T4">together</text:span><text:span text:style-name="T2">, we will step more deftly, confidently, and purposefully </text:span><text:span text:style-name="T7">into it</text:span><text:span text:style-name="T2">.</text:span></text:p>
-   <text:p text:style-name="P44"><text:span text:style-name="T7">W</text:span><text:span text:style-name="T1">here We Are</text:span></text:p>
-   <text:p text:style-name="P15">To fully understand the significance of the shift toward an open future, we need to share a clear understanding of where we are today and the <text:span text:style-name="T55">biological, societal and economic</text:span> movements that have brought us here<text:span text:style-name="T52">.</text:span> While a full history of the 20<text:span text:style-name="T35">th</text:span> century – <text:span text:style-name="T46">let alone</text:span> th<text:span text:style-name="T46">at</text:span> of human <text:span text:style-name="T46">existence</text:span> – is <text:span text:style-name="T46">well </text:span>outside the scope of this writing, I do think it would be beneficial to recognize some important trends.</text:p>
-   <text:p text:style-name="P42">Biology</text:p>
-   <text:p text:style-name="P16">First, and perhaps most interesting, is a <text:span text:style-name="T50">brief</text:span> look at evolution, and the idea that, f<text:span text:style-name="T41">rom the dawn of time, collaboration has been a defining factor in the “watershed” moments of </text:span>life<text:span text:style-name="T41"> on Earth. </text:span>Evolutionary biologists <text:span text:style-name="T47">have identified only a handful of so-called “major transitions” in natural history – shifts from one model of life to a radically new model of life. Nearly all of these occurred through new collaborations forged among individuals</text:span><text:span text:style-name="T47"><text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
-       <text:p text:style-name="P46">See Jonathan Haidt, The Righteous Mind, Ch <text:span text:style-name="T43">9 “Why Are We So Groupish?”, Section 4 “Exhibit A: Major Transitions in Evolution”</text:span></text:p></text:note-body></text:note></text:span><text:span text:style-name="T47">.</text:span></text:p>
-   <text:p text:style-name="P16"><text:span text:style-name="T59">The first shift happened around 2 billion years ago as prokaryotic cells combined to form eukaryotic cells. Subsequent shifts followed, leading to increasingly complex organisms, and eventually to groups of organisms and human societies. Complex human societies congealed into governments, corporations, congregations, organizations, unions and more, and we&apos;re already witnessing the emergence of yet another level of collaboration, the multinational organization, which exists in business, government and the social sector alike.</text:span></text:p>
-   <text:p text:style-name="P17"><text:span text:style-name="T8">Among these major shifts, there was one common</text:span><text:span text:style-name="T9">ality</text:span><text:span text:style-name="T8">: i</text:span><text:span text:style-name="T1">n each case, collaboration </text:span><text:span text:style-name="T8">among individual entities</text:span><text:span text:style-name="T1"> was a vehicle for specialization of labor – a new con</text:span><text:span text:style-name="T8">text</text:span><text:span text:style-name="T1"> which allowed members to become better at their specific task, and ever more dependent on other members </text:span><text:span text:style-name="T8">for their survival. Interdependence – not independence – increases competitive advantage.</text:span></text:p>
-   <text:p text:style-name="P18"><text:span text:style-name="T8">W</text:span><text:span text:style-name="T1">ith that in mind, the arc of humanity from nomadic to agrarian to industrial to post-industrial – and in parallel, from individual to tribe to city-state to nation – makes more sense. Similarly, the role of the </text:span><text:span text:style-name="T11">organization</text:span><text:span text:style-name="T1"> becomes obvious. Biologically, corporations, unions, governments and nonprofits are all the same type of organism: a collaborative entity with highly specialized, interdependent components. </text:span><text:span text:style-name="T10">And they themselves form an interdependent ecosystem at a level above </text:span><text:span text:style-name="T13">the individual</text:span><text:span text:style-name="T10">. In other words, the new driving forces of evolution are acting at the group level, and our individual pertinence in the world is increasingly defined by how well we collaborate. Soon, this will include how well we create </text:span><text:span text:style-name="T12">and foster</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T24">groups</text:span><text:span text:style-name="T10"> that collaborate.</text:span></text:p>
+   <text:p text:style-name="P48"><text:bookmark text:name="h.907qwdyyqp0p"/>Manifesto <text:span text:style-name="T38">for</text:span> <text:span text:style-name="T40">an Open Future</text:span></text:p>
+   <text:p text:style-name="P1"><text:bookmark text:name="h.tur3p4lly216"/>“The door is open to the open source way to bring success to non technology companies, schools, universities, governments — to the world.” <text:span text:style-name="T34">Jim Whitehurst, </text:span><text:span text:style-name="T1">The Open Organization</text:span></text:p>
+   <text:h text:style-name="P45" text:outline-level="10"><text:bookmark text:name="h.333yew2sv0rw"/>Introduction</text:h>
+   <text:p text:style-name="P2">In his important book, <text:span text:style-name="T27">The Open Organization</text:span>, Jim Whitehurst, <text:span text:style-name="T34">CEO of multi-billion dollar software company, Red Hat,</text:span> suggests a movement toward a future where the open-source philosophy<text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
+      <text:p text:style-name="P9">If you&apos;re unfamiliar with “open source”, try starting with <text:a xlink:type="simple" xlink:href="https://medium.com/@nayafia/evolving-the-term-open-source-902ce28a59b2#.yiltb4fwq" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">this Medium post</text:a>. I like it because it&apos;s a <text:span text:style-name="T48">gateway to a</text:span> relatively non-dogmatic, unstructured discussion about open philosophies, but also points to a formal and official definition of “open source”.</text:p></text:note-body></text:note> transcends the software development world and touches the core of human knowledge and collective thought power. It’s a future with immense possibilitie<text:span text:style-name="T35">s, and today the world is taking its first teetering steps in the direction of this future.</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T37">And it&apos;s happening across all sectors. At a frantic pace</text:span>, the lines are blurring between consumer and producer, manager and employee, decision-maker and constituent, <text:span text:style-name="T58">for-profit and nonprofit</text:span>. Companies like Uber and AirBnB <text:span text:style-name="T36">have defined “latent supply” models that give everyday people access to economies once only accessible to insiders and “owners”. The 3D printer, Etsy and Kickstarter have rocketed to the fore the real possibility of the stay-at-home manufacturer and the overnight entrepreneur. Wikipedia has open-sourced knowledge, and Twitter and Facebook have provided information super-highways, putting power in the hands of hundreds of millions who would never have known it just 2 decades prior.</text:span></text:p>
+   <text:p text:style-name="P15"><text:span text:style-name="T44">Yes, t</text:span>he <text:span text:style-name="T45">new millennium</text:span> has been a point of inflection in almost every facet: our culture is changing,<text:span text:style-name="T46"> and</text:span> our horizons and opportunities are expanding exponentially, <text:span text:style-name="T76">even despite equally drastic shifts and increases in global challenges like climate change, terrorism, hunger and war.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T41">Perhaps most significant among these changes has been the emergence of large-scale collaboration as the single most effective driver of innovation, efficiency and success in the 21</text:span><text:span text:style-name="T43">st</text:span><text:span text:style-name="T41"> century. As the physical walls come down inside offices and homes, the virtual walls – “silos” – that contain organizations are dissolving into a now-quaint past when industry secrets ruled the world and a company&apos;s advantage was defined by the degree to which it could keep its customers ignorant.</text:span></text:p>
+   <text:p text:style-name="P14">That world is no longer. Gone, too, are the traditional distinctions between nonprofits and for-profits. As these two sectors, <text:span text:style-name="T52">once</text:span> <text:span text:style-name="T52">exercising a tenuous relationship of mutual need</text:span>, move slowly toward the center, society as a whole stands to gain enormously. <text:span text:style-name="T51">Now, a new world emerges – one in which societal benefit is as fundamental to success as the financial bottom line, and one in which collaboration and information sharing is the infrastructure on which organizations are firmly founded.</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T47">With this writing, I hope to provide an idea of the possibilities of this new “open” world. In so doing, I do not intend to </text:span><text:span text:style-name="T28">change</text:span><text:span text:style-name="T2"> the future. Rather, I </text:span><text:span text:style-name="T3">hope to p</text:span><text:span text:style-name="T5">ut forth</text:span><text:span text:style-name="T2"> a clear and cogent </text:span><text:span text:style-name="T29">vision</text:span><text:span text:style-name="T2"> </text:span><text:soft-page-break/><text:span text:style-name="T2">of </text:span><text:span text:style-name="T6">a</text:span><text:span text:style-name="T2"> future that&apos;s already beginning to </text:span><text:span text:style-name="T4">emerge</text:span><text:span text:style-name="T2">, such that as we move toward that future </text:span><text:span text:style-name="T4">together</text:span><text:span text:style-name="T2">, we will step more deftly, confidently, and purposefully </text:span><text:span text:style-name="T7">into it</text:span><text:span text:style-name="T2">.</text:span></text:p>
+   <text:p text:style-name="P47"><text:span text:style-name="T7">W</text:span><text:span text:style-name="T1">here We Are</text:span></text:p>
+   <text:p text:style-name="P16">To fully understand the significance of the shift toward an open future, we need to share a clear understanding of where we are today and the <text:span text:style-name="T61">biological, societal and economic</text:span> movements that have brought us here<text:span text:style-name="T58">.</text:span> While a full history of the 20<text:span text:style-name="T42">th</text:span> century – <text:span text:style-name="T53">let alone</text:span> th<text:span text:style-name="T53">at</text:span> of human <text:span text:style-name="T53">existence</text:span> – is <text:span text:style-name="T53">well </text:span>outside the scope of this writing, I do think it would be beneficial to recognize some important trends.</text:p>
+   <text:p text:style-name="P44">Biology</text:p>
+   <text:p text:style-name="P17">First, and perhaps most interesting, is a <text:span text:style-name="T57">brief</text:span> look at evolution, and the idea that, f<text:span text:style-name="T48">rom the dawn of time, collaboration has been a defining factor in the “watershed” moments of </text:span>life<text:span text:style-name="T48"> on Earth. </text:span>Evolutionary biologists <text:span text:style-name="T54">have identified only a handful of so-called “major transitions” in natural history – shifts from one model of life to a radically new model of life. Nearly all of these occurred through new collaborations forged among individuals</text:span><text:span text:style-name="T54"><text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
+       <text:p text:style-name="P49">See Jonathan Haidt, The Righteous Mind, Ch <text:span text:style-name="T50">9 “Why Are We So Groupish?”, Section 4 “Exhibit A: Major Transitions in Evolution”</text:span></text:p></text:note-body></text:note></text:span><text:span text:style-name="T54">.</text:span></text:p>
+   <text:p text:style-name="P17"><text:span text:style-name="T65">The first shift happened around 2 billion years ago as prokaryotic cells combined to form eukaryotic cells. Subsequent shifts followed, leading to increasingly complex organisms, and eventually to groups of organisms and human societies. Complex human societies congealed into governments, corporations, congregations, organizations, unions and more, and we&apos;re already witnessing the emergence of yet another level of collaboration, the multinational organization, which exists in business, government and the social sector alike.</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T8">Among these major shifts, there was one common</text:span><text:span text:style-name="T9">ality</text:span><text:span text:style-name="T8">: i</text:span><text:span text:style-name="T1">n each case, collaboration </text:span><text:span text:style-name="T8">among individual entities</text:span><text:span text:style-name="T1"> was a vehicle for specialization of labor – a new con</text:span><text:span text:style-name="T8">text</text:span><text:span text:style-name="T1"> which allowed members to become better at their specific task, and ever more dependent on other members </text:span><text:span text:style-name="T8">for their survival. Interdependence – not independence – increases competitive advantage.</text:span></text:p>
+   <text:p text:style-name="P19"><text:span text:style-name="T8">W</text:span><text:span text:style-name="T1">ith that in mind, the arc of humanity from nomadic to agrarian to industrial to post-industrial – and in parallel, from individual to tribe to city-state to nation – makes more sense. Similarly, the role of the </text:span><text:span text:style-name="T11">organization</text:span><text:span text:style-name="T1"> becomes obvious. Biologically, corporations, unions, governments and nonprofits are all the same type of organism: a collaborative entity with highly specialized, interdependent components. </text:span><text:span text:style-name="T10">And they themselves form an interdependent ecosystem at a level above </text:span><text:span text:style-name="T13">the individual</text:span><text:span text:style-name="T10">. In other words, the new driving forces of evolution are acting at the group level, and our individual pertinence in the world is increasingly defined by how well we collaborate. Soon, this will include how well we create </text:span><text:span text:style-name="T12">and foster</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T30">groups</text:span><text:span text:style-name="T10"> that collaborate.</text:span></text:p>
    <text:p text:style-name="Heading_20_2">Society</text:p>
-   <text:p text:style-name="P19">On discussions of society and post-industrialism, I could never hope for better clarity or vision than that offered by Peter Drucker in his 1994 Atlantic Monthly article, <text:a xlink:type="simple" xlink:href="http://www.theatlantic.com/past/docs/issues/95dec/chilearn/drucker.htm" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">The Age of Social Transformation</text:a>. <text:span text:style-name="T48">Thus, I will encourage you to read that, and attempt only to paraphrase Mr. Drucker where necessary and to build on his arguments here.</text:span></text:p>
-   <text:p text:style-name="P20"><text:soft-page-break/><text:span text:style-name="T49">In his article, Drucker follows the evolution of society and the relationship between the traditional “worker” and “owner” from the industrial revolution to modern times. Perhaps one of the most subtle and important points that he makes is this: today, for the first time in history, capital is necessarily and consistently transferred from owner to worker. In a knowledge society, the productivity of an organization is defined by the quantity and quality of specialized knowledge that its workers possess. Thus, for a business to invest in its own success means that it must invest in the knowledge of its workers, and that knowledge is inherently portable – it can move freely from person to person, business to business, sector to sector, and from country to country.</text:span></text:p>
-   <text:p text:style-name="P28">Another important point that Drucker makes – and this is much more obvious now than it may have been then – is that it is now impossible to consider ourselves separate from the rest of the world. While his argument rests on what this means to our comparative advantage in the marketplace, I see another conclusion to <text:span text:style-name="T56">be</text:span> draw<text:span text:style-name="T56">n</text:span>: Since the emergence of societies, we&apos;ve moved from smaller to <text:span text:style-name="T60">larger</text:span> units of collaboration. As emphasized in the previous section, we&apos;ve moved from individuals operating largely in isolation to tribes collaborating for the good of the group, then on to nations of tribes and/or cities collaborating for the good of the nation.</text:p>
-   <text:p text:style-name="P28">The implications of this are obvious: as life on earth increases in complexity, our level of collaboration must advance. While Drucker recognizes that we are a member of a whole world and must learn to compete effectively at that level, I argue that we must also learn to collaborate effectively at that level, introducing new structures <text:span text:style-name="T56">and techniques to capture the value of such large-scale collaboration.</text:span></text:p>
+   <text:p text:style-name="P20">On discussions of society and post-industrialism, I could never hope for better clarity or vision than that offered by Peter Drucker in his 1994 Atlantic Monthly article, <text:a xlink:type="simple" xlink:href="http://www.theatlantic.com/past/docs/issues/95dec/chilearn/drucker.htm" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">The Age of Social Transformation</text:a>. <text:span text:style-name="T55">Thus, I will encourage you to read that, and attempt only to paraphrase Mr. Drucker where necessary and to build on his arguments here.</text:span></text:p>
+   <text:p text:style-name="P21"><text:soft-page-break/><text:span text:style-name="T56">In his article, Drucker follows the evolution of society and the relationship between the traditional “worker” and “owner” from the industrial revolution to modern times. Perhaps one of the most subtle and important points that he makes is this: today, for the first time in history, capital is necessarily and consistently transferred from owner to worker. In a knowledge society, the productivity of an organization is defined by the quantity and quality of specialized knowledge that its workers possess. Thus, for a business to invest in its own success means that it must invest in the knowledge of its workers, and that knowledge is inherently portable – it can move freely from person to person, business to business, sector to sector, and from country to country.</text:span></text:p>
+   <text:p text:style-name="P24">Another important point that Drucker makes – and this is much more obvious now than it may have been then – is that it is now impossible to consider ourselves separate from the rest of the world. While his argument rests on what this means to our comparative advantage in the marketplace, I see another conclusion to <text:span text:style-name="T62">be</text:span> draw<text:span text:style-name="T62">n</text:span>: Since the emergence of societies, we&apos;ve moved from smaller to <text:span text:style-name="T66">larger</text:span> units of collaboration. As emphasized in the previous section, we&apos;ve moved from individuals operating largely in isolation to tribes collaborating for the good of the group, then on to nations of tribes and/or cities collaborating for the good of the nation.</text:p>
+   <text:p text:style-name="P24"><text:span text:style-name="T74">It follows, then, that</text:span> as life on earth increases in complexity, our level of collaboration must advance. While Drucker recognizes that we are a member of a whole world and must learn to compete effectively at that level, I argue that we must also learn to collaborate effectively at that level, <text:span text:style-name="T74">accepting</text:span> new structures <text:span text:style-name="T62">and techniques to capture the value of such large-scale collaboration. These structures and techniques are encapsulated in the idea of the open future.</text:span></text:p>
    <text:p text:style-name="Heading_20_2">Economy</text:p>
-   <text:p text:style-name="P29">Finally, it&apos;s important to touch on <text:span text:style-name="T57">some of</text:span> the economic trends that have prepared us for <text:span text:style-name="T57">the</text:span> transition to <text:span text:style-name="T57">an open future. In the last 200 years we&apos;ve witnessed a wholesale transformation from a subsistence economy focused entirely on the individual, to producer-focused industrialism</text:span><text:span text:style-name="T57"><text:note text:id="ftn3" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
-       <text:p text:style-name="P48">“Producer-focused” is sort of a technicality here. As I&apos;ll argue later, since the bottom line in this economic model is producer profit, the apparent focus of producers on the needs of consumers is illusory, representing only a means to benefit the producer, and not actually a legitimate attempt to benefit the consumer.</text:p></text:note-body></text:note></text:span><text:span text:style-name="T57">, all the way to consumer-focused models and what I&apos;ll call the “benefit” economy, comprising the on-demand economy, the sharing economy and the social economy, each focusing ever more on the production of goods and services for us, by us.</text:span></text:p>
-   <text:p text:style-name="P31">Consider how this mirrors both the biological thrust and the societal thrust mentioned earlier: in the beginning, there were individuals. <text:span text:style-name="T58">A hunter hunted for himself and his family. As tribes emerged, hunters collaborated, some as runners, some as spear-throwers, etc., to provide for the tribe.</text:span> <text:span text:style-name="T61">The emergence of agriculture enabled further</text:span> specialization of labor, <text:span text:style-name="T61">and</text:span> the economy diversified, <text:span text:style-name="T58">allowing for the existence of garment makers, cobblers, healers, educators, and a variety of other non-subsistence fields, all of which enabled improvements at the community level</text:span>. <text:span text:style-name="T64">(After all, a community with specialized educators and healers is on average more educated and in better health than a community without.)</text:span> <text:span text:style-name="T63">As super-diverse national industrial economies emerged, the economy itself actually became a measure for the health of the nation </text:span><text:soft-page-break/><text:span text:style-name="T63">with reference to other nations (a testament to the power of the new economic model to enable greater individual success and thus greater success of the nation).</text:span></text:p>
-   <text:p text:style-name="P33">Now we&apos;ve born witness to yet another important transition <text:span text:style-name="T64">along</text:span> the same spectrum with the emergence of the “benefit economy” –<text:span text:style-name="T65"> a term I&apos;m using to tie together economic activities that focus on systemic benefit as the end, rather than the means of the activity. (In contrast, traditional industrial economy focuses on producer benefit as the end, using consumer benefit as the means insomuch as it promotes the more efficient transfer of wealth from the consumer to the producer.) The benefit economy includes the sharing economy, the emergence of the B-Corp, the growth of the social sector, and to a certain degree, the on-demand economy.</text:span></text:p>
-   <text:p text:style-name="P34">The importance of this is highlighted when this new economic model is viewed in the context of evolution: Since evolution in modern human societies is working at the group level, evolutionary pressure is to eliminate free-riders and promote group cohesion (again, see footnote #2 above). An economy based on transferring benefit from many members of the group to few is actually <text:span text:style-name="T21">selected against</text:span><text:span text:style-name="T1">, while a model based on efficiently delivering benefit to the group as a whole is selected for. </text:span><text:span text:style-name="T14">In other words, the competitive economy will sooner or later be phased out entirely, and in its place will exist an economy that functions very similarly – still responding to competitive pressure both internally and externally – but where systemic benefit is the end and transfer of money between individuals is the </text:span><text:span text:style-name="T25">means</text:span><text:span text:style-name="T14">.</text:span></text:p>
-   <text:p text:style-name="P35"><text:span text:style-name="T14">T</text:span><text:span text:style-name="T1">his is the model that&apos;s being revealed as societies attempt to find ways beyond GDP to measure national success, and as technologies like the block chain enable individuals to transact directly with each other without the interference of a superfluous middleman.</text:span></text:p>
-   <text:p text:style-name="P36"><text:span text:style-name="T1">To illustrate this point, </text:span><text:span text:style-name="T15">let&apos;s take a look at the difference between how software is produced today and how it will be produced in the future.</text:span></text:p>
-   <text:p text:style-name="P36"><text:span text:style-name="T15">Currently, a company identifies a need in the market, creates a proprietary solution, and sells the solution to consumers, often on a recurring basis and under strict usage contracts. If the company can keep its solution secret, it can control the price of the solution and virtually guarantee the transfer of wealth from consumers to the company in quantities far beyond what&apos;s necessary to produce the solution.</text:span></text:p>
-   <text:p text:style-name="P37"><text:span text:style-name="T1">But there&apos;s another model acting in parallel, even today. Software is also produced at a remarkable scale without any expectation of economic gain. This is the open-source movement</text:span><text:span text:style-name="T1"><text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>4</text:note-citation><text:note-body>
-       <text:p text:style-name="P47">The actual definition of “open source” – and related terms like “Free” and “Libre” – seems to be a fairly contentious issue these days. I&apos;m taking a lazy approach to the term in favor of simplicity. To me (and within the context of this writing), open source symbolizes the production of anything in a way that makes it freely modifiable by users as well as producers, and whose production is primarily driven by a desire to benefit the system, rather than the producer.</text:p></text:note-body></text:note></text:span><text:span text:style-name="T1">. </text:span><text:span text:style-name="T16">Open-source software is (in almost 100% of cases) built first with the intention of benefiting society. It is funded </text:span><text:span text:style-name="T26">secondly,</text:span><text:span text:style-name="T16"> and only as a means to continue its development </text:span><text:span text:style-name="T17">and its benefit to society.</text:span></text:p>
-   <text:p text:style-name="P38"><text:span text:style-name="T17">A</text:span><text:span text:style-name="T1">n example that may be closer to home (and somewhat more transitional) is th</text:span><text:span text:style-name="T18">e advertising economy, exemplified by mobile apps </text:span><text:span text:style-name="T19">and blogs</text:span><text:span text:style-name="T18">. To me,</text:span><text:span text:style-name="T19"> these products</text:span><text:span text:style-name="T18"> have a foot in both </text:span><text:soft-page-break/><text:span text:style-name="T18">worlds: on the one hand, they do generate some revenue, and they often do this by leveraging consumers&apos; activit</text:span><text:span text:style-name="T19">ies</text:span><text:span text:style-name="T18"> in the traditional industrial economy. On the other hand, though, ad revenue rarely represents any sort of large-scale wealth, and many, if not most, mobile apps </text:span><text:span text:style-name="T19">and blogs are produced by people who simply want to share solutions, and hope to cover the </text:span><text:span text:style-name="T20">basic</text:span><text:span text:style-name="T19"> costs of doing so.</text:span></text:p>
-   <text:p text:style-name="P39">Finally, the growth of the social sector, comprising both nonprofits and socially-positive for-profits, like B-Corps and LC3s, represents a very concrete step in the direction of the open future. The social sector is a remarkably complex subject, and again, I defer in-depth discussions of the real economics of <text:span text:style-name="T66">it</text:span> to other writings. I do think there are a few crucial points worth noting in the context of the open future, though.</text:p>
-   <text:p text:style-name="P39">First <text:span text:style-name="T66">and foremost, the social sector represents a tangible example of an economic model with an external (i.e., community-oriented) rather than internal (producer-oriented) goal. Decades ago, this appears to have been very confusing to people. A bold line was drawn between business – characterized by efficiency, strict management policies, sound governance, metrics, investment, etc. – and the social sector, then considered “charity”, or in simpler terms, “not the main goal”; something extra.</text:span></text:p>
-   <text:p text:style-name="P40">Now, though, we can recognize, as I argued earlier, that nonprofits and for-profits are, in biological terms, the same type of super-organism: a complex <text:span text:style-name="T67">group of individuals</text:span> focused on maximizing outputs <text:span text:style-name="T67">for given</text:span> inputs<text:note text:id="ftn4" text:note-class="footnote"><text:note-citation>5</text:note-citation><text:note-body>
-      <text:p text:style-name="P49">This is a very technical way of saying, “an organization that tries to produce things efficiently”.</text:p></text:note-body></text:note>. The difference is simply the nature of their output. This <text:span text:style-name="T67">is why we&apos;ve now come to recognize that the essential set of skills and elements required for running a successful nonprofit is nearly equivalent to that required by for-profits: strict management, sound governance, efficiency, metrics, investment.</text:span></text:p>
-   <text:p text:style-name="P41">The takeaway here is not simply that nonprofits should be run like a business, since this should now be obvious. The more important point is that the social sector is a member of the economic avant-guard, characterized by external, or “systemic”, goals, and traditional businesses represent an old and passing form of economy characterized by internal, or “personal”, goals. One will create a new future, and one will fade into the past.</text:p>
-   <text:p text:style-name="Heading_20_1">Where We&apos;re Going</text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P30">The on-demand economy</text:p>
-   <text:p text:style-name="P30">The sharing economy</text:p>
-   <text:p text:style-name="P30">The B-Corp and the identity crises of the triple bottom line</text:p>
-   <text:p text:style-name="P32">The open future requires an economic model based on benefit. Since evolution is working to eliminate free-riders and promote group cohesion, it makes sense that the every-man-for-himself model will eventually make way for a one-for-all/all-for-one economy, where goods and services are produced efficiently for mutual benefit, not to transfer money from one hand to <text:soft-page-break/>another. <text:span text:style-name="T62">In this economy, money will be an enabling by-product of production – not the end of it: “I want to do this; who will help me?” This mutually-beneficial relationship is contained by the largest unit of collaboration to which it applies (i.e., the level for which group selection is most active). For example, products that help individual humans are contained in the “Organization” context, since an organization benefits from the increased productivity of its individuals. Products that help organizations are contained in the “multinational organization” context, since a multinational organization benefits from the increased productivity of its members. And so on.</text:span></text:p>
-   <text:p text:style-name="P32"/>
-   <text:p text:style-name="P26">It&apos;s worthwhile to pause on this point. <text:span text:style-name="T53">What implications does this have for the future? For one thing, a drastically new business model is required – one that&apos;s not dependent on the advantages of exclusive information. We can already observe this trend with companies like Red Hat (which earns money by guaranteeing reliable functionality) and the fluidity of ideas among software applications. Now, rather than fiercely guarding the formula by which a product is produced, businesses earn success by aligning themselves philosophically with their customers and by fulfilling specific technical and emotional needs reliably.</text:span></text:p>
-   <text:p text:style-name="P27">Another imp<text:span text:style-name="T54">ortant implication is that it has the power to cause a cultural shift in mindset. Linux and the open-source movement is a good example of this. Hundreds of thousands of people across the world apply knowledge that they&apos;ve gained through study and work to software (and even hardware) projects with absolutely no intention of monetary gain. This is huge. </text:span></text:p>
-   <text:p text:style-name="P27"/>
-   <text:p text:style-name="P21">Drucker makes <text:span text:style-name="T51">these</text:span> important points:</text:p>
-   <text:list xml:id="list7482397575118865251" text:style-name="L1">
-    <text:list-item>
-     <text:p text:style-name="P22">Our economy (and thus society) is no longer to be identified as separate from the world as a whole <text:span text:style-name="T52">(i.e., we&apos;ve moved consistently from smaller to bigger; currently we&apos;re at the level of organizations of organizations (teams of teams), and we must prepare to operate at a global scale: Countries of teams of teams, and eventually a single world of countries of teams of teams working together)</text:span>;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P22">We have three sectors – private, public, and social – not just two, as has traditionally been assumed;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P23">Knowledge – not money – is the real currency on which society is built <text:span text:style-name="T51">(“Increasingly, an educated person will be somebody who has learned how to learn, and who continues learning, especially by formal education, throughout his or her lifetime.”)</text:span>;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P24">Knowledge is only attainable through education;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P25">Knowledge as it is pertinent to society today is highly specialized;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P25">Knowledge can only be productive within a team of interdependent knowledge workers</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P25"><text:soft-page-break/>Increasingly, capital is invested in the knowledge of individuals, which is <text:span text:style-name="T21">inherently portable</text:span><text:span text:style-name="T1">. This transfers power from the capitalists to the workers.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P25"><text:span text:style-name="T1">Management: “All managers do the same things, whatever the purpose of their organization. All of them have to bring people--each possessing different knowledge--together for joint performance.”</text:span></text:p>
-    </text:list-item>
-   </text:list>
+   <text:p text:style-name="P25">Finally, it&apos;s important to touch on <text:span text:style-name="T63">some of</text:span> the economic trends that have prepared us for <text:span text:style-name="T63">the</text:span> transition to <text:span text:style-name="T63">an open future. In the last 200 years we&apos;ve witnessed a wholesale transformation from a subsistence economy focused entirely on the individual, to producer-focused industrialism</text:span><text:span text:style-name="T63"><text:note text:id="ftn3" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
+       <text:p text:style-name="P51">“Producer-focused” is sort of a technicality here. As I&apos;ll argue later, since the bottom line in this economic model is producer profit, the apparent focus of producers on the needs of consumers is illusory, representing only a means to benefit the producer, and not actually a legitimate attempt to benefit the consumer.</text:p></text:note-body></text:note></text:span><text:span text:style-name="T63">, all the way to consumer-focused models and what I&apos;ll call the “benefit” economy, comprising the on-demand economy, the sharing economy and the social economy, each focusing ever more on the production of goods and services for us, by us.</text:span></text:p>
+   <text:p text:style-name="P26">Consider how this mirrors both the biological thrust and the societal thrust mentioned earlier: in the beginning, there were individuals. <text:span text:style-name="T64">A hunter hunted for himself and his family. As tribes emerged, hunters collaborated to provide for the tribe.</text:span> <text:span text:style-name="T67">The emergence of agriculture enabled further</text:span> specialization of labor, <text:span text:style-name="T67">and</text:span> the economy diversified, <text:span text:style-name="T64">allowing for the existence of garment makers, cobblers, healers, educators, and a variety of other non-subsistence fields, all of which enabled improvements at the community level</text:span>. <text:span text:style-name="T70">(After all, a community with specialized educators and healers is on average more educated and in better health than a community without.)</text:span> <text:span text:style-name="T69">As super-diverse national industrial economies emerged, the economy itself actually became a measure for the health of the nation with reference to other nations (a testament to </text:span><text:soft-page-break/><text:span text:style-name="T69">the power of the new economic model to enable greater individual success and thus greater success of the nation).</text:span></text:p>
+   <text:p text:style-name="P28">Now we&apos;ve born witness to yet another important transition <text:span text:style-name="T70">along</text:span> the same spectrum with the emergence of the “benefit economy” –<text:span text:style-name="T71"> a term I&apos;m using to tie together economic activities that focus on systemic benefit as the end, rather than the means of the activity. (In contrast, traditional industrial economy focuses on producer benefit as the end, using consumer benefit as the means insomuch as it promotes the more efficient transfer of wealth from the consumer to the producer.) The benefit economy includes the sharing economy, the emergence of the B-Corp and LC3, the growth of the social sector, and to a certain degree, the on-demand economy.</text:span></text:p>
+   <text:p text:style-name="P29">The importance of this is highlighted when this new economic model is viewed in <text:span text:style-name="T76">an evolutionary context</text:span>: Since evolution in modern human societies is working at the group level, evolutionary pressure is to eliminate free-riders and promote group cohesion (again, s<text:span text:style-name="T74">ee Jonathan Haidt, referenced</text:span> above). An economy based on transferring benefit from many members of the group to few is actually <text:span text:style-name="T27">selected against</text:span><text:span text:style-name="T1">, while a model based on efficiently delivering benefit to the group as a whole is selected for. </text:span><text:span text:style-name="T14">In other words, the competitive economy will sooner or later be phased out entirely, and in its place will exist an economy that functions very similarly – still responding to competitive pressure both internally and externally – but where systemic benefit is the end and transfer of money between individuals is the </text:span><text:span text:style-name="T31">means</text:span><text:span text:style-name="T14">.</text:span></text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T14">T</text:span><text:span text:style-name="T1">his is the model that&apos;s being revealed as societies attempt to find ways beyond GDP to measure national success, and as technologies like the block chain enable individuals to transact directly with each other without the interference of a superfluous middleman.</text:span></text:p>
+   <text:p text:style-name="P37"><text:span text:style-name="T15">T</text:span><text:span text:style-name="T1">his point is well illustrated by the software industry. </text:span><text:span text:style-name="T15">Currently, a company identifies a need in the market, creates a proprietary solution, and sells the solution to consumers, often on a recurring basis and under strict usage contracts. If the company can keep its solution secret, it can control the price of the solution and virtually guarantee the transfer of wealth from consumers to the company in quantities far beyond what&apos;s necessary to produce the solution.</text:span></text:p>
+   <text:p text:style-name="P31"><text:span text:style-name="T1">But there&apos;s another model acting in parallel, even today. Software is also produced at a remarkable scale without any expectation of economic gain. This is the open-source movement</text:span><text:span text:style-name="T1"><text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>4</text:note-citation><text:note-body>
+       <text:p text:style-name="P50">The actual definition of “open source” – and related terms like “Free” and “Libre” – seems to be a fairly contentious issue these days. I&apos;m taking a lazy approach to the term in favor of simplicity. To me (and within the context of this writing), open source symbolizes the production of anything in a way that makes it freely <text:span text:style-name="T74">available to and </text:span>modifiable by users as well as producers, and whose production is primarily driven by a desire to benefit the system, rather than the producer.</text:p></text:note-body></text:note></text:span><text:span text:style-name="T1">. </text:span><text:span text:style-name="T16">Open-source software is (</text:span><text:span text:style-name="T21">with a few notable exceptions</text:span><text:span text:style-name="T16">) built first with the intention of benefiting society. It is funded </text:span><text:span text:style-name="T32">secondly,</text:span><text:span text:style-name="T16"> and only as a means to continue its development </text:span><text:span text:style-name="T17">and its benefit to society.</text:span></text:p>
+   <text:p text:style-name="P32"><text:span text:style-name="T1">An</text:span><text:span text:style-name="T23">other</text:span><text:span text:style-name="T1"> example that may be closer to home (and somewhat more transitional) is th</text:span><text:span text:style-name="T18">e advertising economy, exemplified by mobile apps </text:span><text:span text:style-name="T19">and blogs</text:span><text:span text:style-name="T18">. To me,</text:span><text:span text:style-name="T19"> these products</text:span><text:span text:style-name="T18"> have a foot in both worlds: on the one hand, they do generate some revenue, and they often do this by </text:span><text:soft-page-break/><text:span text:style-name="T18">leveraging consumers&apos; activit</text:span><text:span text:style-name="T19">ies</text:span><text:span text:style-name="T18"> in the traditional industrial economy. On the other hand, though, ad revenue rarely represents any sort of large-scale wealth, </text:span><text:span text:style-name="T23">leaving us to assume that</text:span><text:span text:style-name="T18"> many, if not most, mobile apps </text:span><text:span text:style-name="T19">and blogs are produced by people who simply want to share solutions, and hope to cover the </text:span><text:span text:style-name="T20">basic</text:span><text:span text:style-name="T19"> costs of doing so.</text:span></text:p>
+   <text:p text:style-name="Heading_20_2"><text:span text:style-name="T19">T</text:span><text:span text:style-name="T1">he Social Sector</text:span></text:p>
+   <text:p text:style-name="P33">Finally, the growth of the social sector, comprising both nonprofits and socially-positive for-profits, like B-Corps and LC3s, represents a very concrete step in the direction of the open future. The social sector is a remarkably complex subject, and again, I defer in-depth discussions of the real economics of <text:span text:style-name="T72">it</text:span> to other writings. <text:span text:style-name="T76">Following are the key points that I think are pertinent to this discussion of the open future.</text:span></text:p>
+   <text:p text:style-name="P33">First <text:span text:style-name="T72">and foremost, the social sector represents a tangible example of an economic model with an external (i.e., community-oriented) rather than internal (producer-oriented) goal. Decades ago, this appears to have been very confusing to people. A bold line was drawn between business – characterized by efficiency, strict management policies, sound governance, metrics, investment, etc. – and the social sector, then considered “charity”, or in simpler terms, “not the main goal”; something extra.</text:span></text:p>
+   <text:p text:style-name="P34">Now, though, we can recognize, as I argued earlier, that nonprofits and for-profits are, in biological terms, the same type of super-organism: a complex <text:span text:style-name="T73">group of individuals</text:span> focused on maximizing outputs <text:span text:style-name="T73">for given</text:span> inputs<text:note text:id="ftn4" text:note-class="footnote"><text:note-citation>5</text:note-citation><text:note-body>
+      <text:p text:style-name="P52">This is a very technical way of saying, “an organization that tries to produce <text:span text:style-name="T74">results</text:span> efficiently”.</text:p></text:note-body></text:note>. The difference is simply the nature of their output. This <text:span text:style-name="T73">is why we&apos;ve now come to recognize that the essential set of skills and elements required for running a successful nonprofit is nearly equivalent to that required by for-profits: strict management, sound governance, efficiency, metrics, investment.</text:span></text:p>
+   <text:p text:style-name="P35">The takeaway here is not simply that nonprofits should be run like a business, since this should now be obvious. The more important point is that the social sector is a member of the economic avant-guard, characterized by external, or “systemic”, goals <text:span text:style-name="T74">and increasingly selected for by evolutionary pressures. T</text:span>raditional businesses, <text:span text:style-name="T76">on the other hand,</text:span> represent an old and passing form of economy characterized by internal, or “<text:span text:style-name="T76">individual</text:span>”, goals. One will create a new future, and one will fade into the past.</text:p>
+   <text:p text:style-name="Heading_20_2">Summary</text:p>
+   <text:p text:style-name="P36"><text:span text:style-name="T75">We can now zoom out and view our current state of being in a larger context. Biological evolutionary pressures have begun selecting for high-functioning </text:span><text:span text:style-name="T33">groups</text:span><text:span text:style-name="T21">, rather than individuals. Our </text:span><text:span text:style-name="T24">success</text:span><text:span text:style-name="T21"> now depends not on how well we </text:span><text:span text:style-name="T33">compete</text:span><text:span text:style-name="T21"> with each other, but </text:span><text:span text:style-name="T22">on</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T24">how well we collaborate</text:span><text:span text:style-name="T21">. Furthermore, society is no longer trapped in immutable “owner” and “worker” classes. </text:span><text:span text:style-name="T24">Businesses necessarily transfer capital to workers</text:span><text:span text:style-name="T21"> on a continual basis through specialized education. </text:span><text:span text:style-name="T23">N</text:span><text:span text:style-name="T21">ew, </text:span><text:span text:style-name="T25">highly democratic and efficient </text:span><text:span text:style-name="T24">economic models</text:span><text:span text:style-name="T21"> are beginning to emerge </text:span><text:span text:style-name="T22">that still respond to </text:span><text:span text:style-name="T23">the </text:span><text:span text:style-name="T22">competitive pressures that drive innovation, but also accommodate </text:span><text:span text:style-name="T25">highly distributed and accessible means of production</text:span><text:span text:style-name="T22">. </text:span><text:span text:style-name="T23">Finally, the emergence of the social sector demonstrates </text:span><text:span text:style-name="T26">a shift away from focus on individual goals and toward focus on systemic goals.</text:span></text:p>
+   <text:p text:style-name="P46"><text:soft-page-break/>The Open Future</text:p>
+   <text:p text:style-name="P38">And so finally, <text:span text:style-name="T76">I believe I can propose</text:span> a definition. <text:span text:style-name="T77">An “open” world is </text:span><text:span text:style-name="T78">one in which uninhibited access to all data and information is seen as inherently valuable.</text:span></text:p>
+   <text:p text:style-name="P39">This definition may seem deceptively simple. To really understand what this would mean to the world, imagine how we treat other things that we consider inherently valuable, like life and liberty. In most societies, these <text:span text:style-name="T79">concepts</text:span> are both <text:span text:style-name="T27">protected and facilitated</text:span> legally, culturally and infrastructurally. There are legal consequences for <text:span text:style-name="T79">taking a person&apos;s life</text:span>. In the event that our legal system fails, there are still often serious cultural consequences t<text:span text:style-name="T79">o face</text:span>. <text:span text:style-name="T81">M</text:span>any public services make it easier to live a good life, while public infrastructure like highways, sidewalks and parks makes it easier to exercise <text:span text:style-name="T79">one&apos;s</text:span> liberty.</text:p>
+   <text:p text:style-name="P40">Similarly, in an open future, it&apos;s reasonable to assume that legal and cultural structures as well as basic infrastructure will exist to both protect and facilitate unlimited access to data and information. There are already several important legal structures available for this, including the GNU General Public License and the Creative Commons series of licenses. Culturally, too, we&apos;re already making the shift. Major players in the software market offer full integration through data access APIs (with no legal <text:span text:style-name="T79">pressure</text:span> and only minor indirect monetary incentives). A precious few <text:span text:style-name="T79">manufacturers</text:span>, too, are beginning to increase the amount of data they share about their operations, <text:span text:style-name="T79">strategy and finances</text:span><text:note text:id="ftn5" text:note-class="footnote"><text:note-citation>6</text:note-citation><text:note-body>
+      <text:p text:style-name="P53">A specific example is Patagonia, which offers a map which attempts to show the full details of its world-wide materials supply chain.</text:p></text:note-body></text:note><text:span text:style-name="T79">,</text:span> and of course governments and nonprofits already have strict transparency requirements in the financial realm.</text:p>
+   <text:p text:style-name="P42">There will be more <text:span text:style-name="T80">drastic</text:span> shifts, too. For example, it&apos;s likely that the nature of our professional relationships will change. In practical terms, unlimited access to data and information means that when a business or organization funds research and development, the results of that <text:span text:style-name="T81">investment</text:span> are available to anyone – <text:span text:style-name="T80">including would-be competitors</text:span>. <text:span text:style-name="T80">At first glance</text:span>, this might seem like it would damage the incentive structures that allow for sound research and development and produce better products.</text:p>
+   <text:p text:style-name="P42">However, recall that the context is one in which high-level collaboration yields extreme specialization. Within this context, it&apos;s easy to imagine an ecosystem in which an institution&apos;s sole role is innovation, <text:span text:style-name="T81">say </text:span>in the field of materials science. Now, instead of a company like 3M funding new research itself, it might simply follow the innovations coming out of this new institution and incorporate them into its products. <text:span text:style-name="T80">It might even assemble a small team to work at the institution on behalf of 3M, ensuring that research is conducted in directions that serve its products.</text:span></text:p>
+   <text:p text:style-name="P43">Importantly, though, 3M becomes a member of a larger <text:span text:style-name="T81">collaborative </text:span>system, and investments that 3M makes in materials science innovations go on to benefit the rest of the system immediately. And 3M isn&apos;t alone. Other businesses that are interested in materials science innovations also invest either modest sums of money or small contributions of staff time in the collective effort. The result is innovation that is on par with or better than results from the past, but eliminating the collective overhead of each company having it&apos;s own R&amp;D department.</text:p>
+   <text:p text:style-name="P43"><text:soft-page-break/><text:span text:style-name="T81">A further benefit of this is that everyday individuals can also immediately access these innovations, multiplying by many times the number of possible products that result from an investment. What once was a closed process with private and finite results is now an open process with infinite possibilities.</text:span></text:p>
+   <text:p text:style-name="P43"/>
+   <text:p text:style-name="P41">So what&apos;s missing?</text:p>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P37">How will businesses handle fluidity of workflow? The only way to guarantee gains is to standardize investments across the sector. Thus, all businesses in a given sector can be expected to contribute equally to the education of their employees, such that employees can freely move among the businesses with little concrete loss by the collective group of businesses.</text:p>
+   <text:p text:style-name="P37">How can we explain employees wanting higher wages? Higher wages simply represent a person wanting more control over <text:span text:style-name="T27">how</text:span><text:span text:style-name="T1"> they benefit society. A person who asks low wages might be someone who agrees strongly with the role of the company in society and doesn&apos;t feel a need to contribute further. Someone who asks high wages might appreciate the role of the company in society, but feel that other areas of society need more benefit and may then apply his or her disposable income to that area.</text:span></text:p>
+   <text:p text:style-name="P27">The open future requires an economic model based on benefit. Since evolution is working to eliminate free-riders and promote group cohesion, it makes sense that the every-man-for-himself model will eventually make way for a one-for-all/all-for-one economy, where goods and services are produced efficiently for mutual benefit, not to transfer money from one hand to another. <text:span text:style-name="T68">In this economy, money will be an enabling by-product of production – not the end of it: “I want to do this; who will help me?” This mutually-beneficial relationship is contained by the largest unit of collaboration to which it applies (i.e., the level for which group selection is most active). For example, products that help individual humans are contained in the “Organization” context, since an organization benefits from the increased productivity of its individuals. </text:span><text:soft-page-break/><text:span text:style-name="T68">Products that help organizations are contained in the “multinational organization” context, since a multinational organization benefits from the increased productivity of its members. And so on.</text:span></text:p>
+   <text:p text:style-name="P22">It&apos;s worthwhile to pause on this point. <text:span text:style-name="T59">What implications does this have for the future? For one thing, a drastically new business model is required – one that&apos;s not dependent on the advantages of exclusive information. We can already observe this trend with companies like Red Hat (which earns money by guaranteeing reliable functionality) and the fluidity of ideas among software applications. Now, rather than fiercely guarding the formula by which a product is produced, businesses earn success by aligning themselves philosophically with their customers and by fulfilling specific technical and emotional needs reliably.</text:span></text:p>
+   <text:p text:style-name="P23">Another imp<text:span text:style-name="T60">ortant implication is that it has the power to cause a cultural shift in mindset. Linux and the open-source movement is a good example of this. Hundreds of thousands of people across the world apply knowledge that they&apos;ve gained through study and work to software (and even hardware) projects with absolutely no intention of monetary gain. This is huge. </text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
