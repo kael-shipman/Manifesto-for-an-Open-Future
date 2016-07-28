@@ -6,7 +6,7 @@ The meat of it is the "Manifesto for an Open Future.fodt" file. This contains th
 Also, I would welcome any help in developing these ideas or materials related to them!
 
 ## Primary Points
-*Definition:* I've proposed that an "open" world is one in which uninhibited collaboration and access to data, information, products and services is inherently valuable.
+**Definition:** I've proposed that an "open" world is one in which uninhibited collaboration and access to data, information, products and services is inherently valuable.
 
 I've used this wording in an attempt to indicate that this future requires no mandate -- rather, it's a future that naturally follows from the cultural trends we're seeing today: The emergence of the "Benefit" economy, increasing emphasis on collaboration and transparency, increasingly complex challenges that we won't be able to confront individually, and a tendency toward more democratic and distributed methods of productivity (i.e., "centralized decentralization").
 
