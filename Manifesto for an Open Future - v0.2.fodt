@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Kael Shipman</meta:initial-creator><meta:creation-date>2016-08-09T17:15:58.688583912</meta:creation-date><dc:date>2016-08-10T15:56:15.277141023</dc:date><dc:creator>Kael Shipman</dc:creator><meta:editing-duration>PT1H3M1S</meta:editing-duration><meta:editing-cycles>27</meta:editing-cycles><meta:generator>LibreOffice/5.0.6.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="24" meta:word-count="604" meta:character-count="3727" meta:non-whitespace-character-count="3143"/></office:meta>
+ <office:meta><meta:initial-creator>Kael Shipman</meta:initial-creator><meta:creation-date>2016-08-09T17:15:58.688583912</meta:creation-date><dc:date>2016-08-22T17:06:14.646658831</dc:date><dc:creator>Kael Shipman</dc:creator><meta:editing-duration>PT3H26S</meta:editing-duration><meta:editing-cycles>42</meta:editing-cycles><meta:generator>LibreOffice/5.0.6.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:description>A vision document to help orient our labor toward a future that works better for everyone.</dc:description><dc:title>Manifesto for an Open Future</dc:title><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="32" meta:word-count="950" meta:character-count="5715" meta:non-whitespace-character-count="4787"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">33443</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">15875</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">50140</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">23100</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">23867</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">29681</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">45039</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">20999</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">24959</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">33443</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">15875</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">50139</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">56541</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">39740</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -68,7 +68,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2618049</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4232826</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -83,6 +83,15 @@
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
    <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
@@ -182,6 +191,9 @@
    <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="130%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
   </style:style>
+  <style:style style:name="List_20_Contents" style:display-name="List Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="0.3937in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
+  </style:style>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
@@ -192,6 +204,7 @@
   <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
    <style:text-properties style:text-position="super 58%"/>
   </style:style>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
@@ -245,7 +258,7 @@
    </text:outline-level-style>
   </text:outline-style>
   <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
-  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:notes-configuration text:note-class="endnote" text:citation-style-name="Endnote_20_Symbol" style:num-format="i" text:start-value="0"/>
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
  <office:automatic-styles>
@@ -259,41 +272,83 @@
    <style:text-properties officeooo:rsid="001d6a35" officeooo:paragraph-rsid="001d6a35"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="001db58a" officeooo:paragraph-rsid="001db58a"/>
+   <style:text-properties officeooo:rsid="001d6a35" officeooo:paragraph-rsid="001ed659"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001d6a35" officeooo:paragraph-rsid="0039137e"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001d6a35" officeooo:paragraph-rsid="003932c8"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001db58a" officeooo:paragraph-rsid="001db58a"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="001ec5e6" officeooo:paragraph-rsid="001ec5e6"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Title">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="001db58a" officeooo:paragraph-rsid="001db58a" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001ff81e" officeooo:paragraph-rsid="001ff81e"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0026d1df" officeooo:paragraph-rsid="0026d1df"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0026d1df"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0027f2c1" officeooo:paragraph-rsid="0027f2c1"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="002bb32d" officeooo:paragraph-rsid="002bb32d"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0039137e" officeooo:paragraph-rsid="0039137e"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Title">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Subtitle">
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Subtitle">
    <style:paragraph-properties fo:line-height="115%" fo:break-before="auto" fo:break-after="auto" style:writing-mode="lr-tb"/>
    <style:text-properties officeooo:paragraph-rsid="001b0efd"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="001db58a" officeooo:paragraph-rsid="001db58a" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="001d6a35" officeooo:paragraph-rsid="001ed659"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="001bd52a" officeooo:paragraph-rsid="001bd52a"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="001ff81e" officeooo:paragraph-rsid="001ff81e"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0026d1df" officeooo:paragraph-rsid="0026d1df"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0026d1df"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="0027f2c1" officeooo:paragraph-rsid="0027f2c1"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0027f2c1" officeooo:paragraph-rsid="0027f2c1"/>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="002995e7" officeooo:paragraph-rsid="002995e7"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="002a81d2" officeooo:paragraph-rsid="002a81d2"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="002bb32d" officeooo:paragraph-rsid="002bb32d"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0in" style:auto-text-indent="false" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001d6a35" officeooo:paragraph-rsid="003bd2be"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="002bb32d" officeooo:paragraph-rsid="002bb32d"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="002995e7" officeooo:paragraph-rsid="002995e7"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="002a81d2" officeooo:paragraph-rsid="002a81d2"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:line-height="100%" fo:text-align="start" fo:text-indent="0in" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00148c2e"/>
@@ -359,31 +414,106 @@
    <style:text-properties fo:font-style="normal" officeooo:rsid="001781f3" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="002995e7" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="001db58a" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="002a81d2" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00201282" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="002bb32d" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="0023f44f" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="003099ef" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties officeooo:rsid="00160b80"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0032554f" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties officeooo:rsid="001bd52a"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00335b4e" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties officeooo:rsid="001d6a35"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00342b27" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties officeooo:rsid="001ed659"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0034ebcf" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0036077e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="003932c8" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00398bcc" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0039d4aa" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="003ec74b" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="001db58a" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00201282" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0023f44f" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="003099ef" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00335b4e" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00342b27" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0034ebcf" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0036077e" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="003932c8" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="003ec74b" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties officeooo:rsid="00160b80"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties officeooo:rsid="001bd52a"/>
+  </style:style>
+  <style:style style:name="T48" style:family="text">
+   <style:text-properties officeooo:rsid="001d6a35"/>
+  </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties officeooo:rsid="001ed659"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
    <style:text-properties officeooo:rsid="0026d1df"/>
+  </style:style>
+  <style:style style:name="T51" style:family="text">
+   <style:text-properties officeooo:rsid="002995e7"/>
+  </style:style>
+  <style:style style:name="T52" style:family="text">
+   <style:text-properties officeooo:rsid="00342b27"/>
+  </style:style>
+  <style:style style:name="T53" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Arial" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties officeooo:rsid="0039d4aa"/>
+  </style:style>
+  <style:style style:name="T55" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Arial" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
@@ -398,37 +528,50 @@
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P6">Manifesto for an Open Future</text:p>
-   <text:p text:style-name="P7">“The door is open to the open source way to bring success to non technology companies, schools, universities, governments — to the world.” <text:span text:style-name="T1">Jim Whitehurst, </text:span><text:span text:style-name="T2">The Open Organization</text:span></text:p>
-   <text:p text:style-name="Text_20_body">In his important book, <text:span text:style-name="T22">The Open Organization</text:span>, Jim Whitehurst, <text:span text:style-name="T1">CEO of multi-billion dollar open-source software company, Red Hat,</text:span> suggests a movement toward a future where the open-source philosophy transcends the software development world and touches the core of human knowledge and <text:span text:style-name="T29">productive</text:span> power. It’s a future with immense possibilitie<text:span text:style-name="T26">s, and today the world is taking its first teetering steps in the direction of this future.</text:span></text:p>
-   <text:p text:style-name="P1">But what would <text:span text:style-name="T27">it</text:span> look like? How would it work? <text:span text:style-name="T27">What are its costs and its benefits? Is the Open Future even realistic or viable? And what&apos;s to suggest that we&apos;re actually moving in this direction?</text:span></text:p>
-   <text:p text:style-name="P2">These are the questions I hope to address with this writing. I <text:span text:style-name="T28">intend for</text:span> this to be a starting point – a rough draft, or a version 0.1<text:span text:style-name="T28"> </text:span>that will serve to spur conversation a<text:span text:style-name="T28">round the real possibilities that the future holds for our institutions, our enterprise and our world.</text:span></text:p>
-   <text:p text:style-name="P11">Furthermore, <text:span text:style-name="T30">with this writing,</text:span> I do not intend to <text:span text:style-name="T22">change</text:span><text:span text:style-name="T2"> the future. </text:span><text:span text:style-name="T7">Rather, I </text:span><text:span text:style-name="T8">hope to p</text:span><text:span text:style-name="T9">ut forth</text:span><text:span text:style-name="T7"> a clear and cogent </text:span><text:span text:style-name="T24">vision</text:span><text:span text:style-name="T7"> of </text:span><text:span text:style-name="T10">a</text:span><text:span text:style-name="T7"> future that&apos;s already beginning to </text:span><text:span text:style-name="T11">emerge</text:span><text:span text:style-name="T7">, such that as we move toward that future </text:span><text:span text:style-name="T11">together</text:span><text:span text:style-name="T7">, we will step more deftly, confidently, and purposefully </text:span><text:span text:style-name="T12">into it</text:span><text:span text:style-name="T7">.</text:span></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">Introduction</text:h>
-   <text:p text:style-name="P9">So what <text:span text:style-name="T22">is</text:span><text:span text:style-name="T2"> an open world?</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T6">Of course this is a philosophical question</text:span><text:span text:style-name="T5">, but for the purposes of this writing, I&apos;d like to propose </text:span><text:span text:style-name="T13">a relatively simple</text:span><text:span text:style-name="T5"> definition:</text:span></text:p>
-   <text:p text:style-name="P9"><text:span text:style-name="T13">An open world, </text:span><text:span text:style-name="T16">to me,</text:span><text:span text:style-name="T13"> is one in which collaboration is seen as inherently valuable </text:span><text:span text:style-name="T14">and is </text:span><text:span text:style-name="T25">protected and facilitated</text:span><text:span text:style-name="T14"> legally, culturally and infrastructurally.</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T6">In such a world, we share data, information, </text:span><text:span text:style-name="T14">products and services </text:span><text:span text:style-name="T17">that we create</text:span><text:span text:style-name="T6"> because we understand that through sharing, a greater return on our investment is possible. </text:span><text:span text:style-name="T14">In suc</text:span><text:span text:style-name="T15">h a world, we </text:span><text:span text:style-name="T16">strive to work with, </text:span><text:span text:style-name="T17">rather than against,</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T17">one an</text:span><text:span text:style-name="T16">other, because we understand that our wellbeing is directly linked to that of the system as a whole.</text:span></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T2">Perhaps equally important is to recognize what an open world is </text:span><text:span text:style-name="T22">not</text:span><text:span text:style-name="T2">. It is </text:span><text:span text:style-name="T22">not</text:span><text:span text:style-name="T2"> communism, </text:span><text:span text:style-name="T4">nor socialism</text:span><text:span text:style-name="T2">. </text:span><text:span text:style-name="T4">It is not a political or governmental movement at all.</text:span><text:span text:style-name="T2"> It does not imply the disappearance of money, nor does it imply increased control over the way we live and interact.</text:span></text:p>
-   <text:p text:style-name="P13"><text:soft-page-break/><text:span text:style-name="T17">Quite to the contrary, it is a world fueled by the synergy and speed of small teams working on focused problems. It is a peer-to-peer world distinctly lacking the dinosaur bureaucracies that once ruled the Earth. It is a world defined by “centralized decentralization” – a sort of “</text:span><text:span text:style-name="T18">societal operating system”</text:span><text:span text:style-name="T17"> that scales horizontally to take on ever greater challenges ever more effectively.</text:span></text:p>
-   <text:p text:style-name="P14"><text:span text:style-name="T17">A</text:span><text:span text:style-name="T2">nd it is happening. </text:span><text:span text:style-name="T20">At a frantic pace</text:span><text:span text:style-name="T19">, the lines are blurring between consumer and producer, manager and employee, decision-maker and constituent. Companies like Uber and AirBnB </text:span><text:span text:style-name="T21">have defined “latent supply” models that give everyday people access to opportunities once </text:span><text:span text:style-name="T2">out of reach</text:span><text:span text:style-name="T21">. The 3D printer, Etsy and Kickstarter have rocketed to the fore the real possibility of the stay-at-home manufacturer and the overnight entrepreneur. Wikipedia has open-sourced knowledge, and Twitter and Facebook have provided information super-highways, putting power in the hands of hundreds of millions who would never have known it just 2 decades prior.</text:span></text:p>
-   <text:p text:style-name="P14"><text:span text:style-name="T21">T</text:span><text:span text:style-name="T2">hese are the first achievements of the open future.</text:span></text:p>
-   <text:h text:style-name="P15" text:outline-level="1">Why Collaborate?</text:h>
-   <text:p text:style-name="P12">Coworking spaces</text:p>
-   <text:p text:style-name="P12">Social Sector collaboration</text:p>
-   <text:p text:style-name="P12">The benefit economy</text:p>
-   <text:p text:style-name="P14">Systems Thinking: Optimizing the system, rather than any one part of it.</text:p>
-   <text:p text:style-name="P12"/>
-   <text:p text:style-name="P8">Collaboration</text:p>
-   <text:p text:style-name="P8">Peer to Peer</text:p>
-   <text:p text:style-name="P8">Visibility</text:p>
-   <text:p text:style-name="P8">Access</text:p>
-   <text:p text:style-name="P8">Trend Toward Benefit – convergence of nonprofit and for-profit in the social sector</text:p>
-   <text:p text:style-name="P8">The Nature of Organizations</text:p>
+   <text:p text:style-name="P16">Manifesto for an Open Future</text:p>
+   <text:p text:style-name="P17">“The door is open to the open source way to bring success to non technology companies, schools, universities, governments — to the world.” <text:span text:style-name="T1">Jim Whitehurst, </text:span><text:span text:style-name="T2">The Open Organization</text:span></text:p>
+   <text:p text:style-name="Text_20_body">In his important book, <text:span text:style-name="T35">The Open Organization</text:span>, Jim Whitehurst, <text:span text:style-name="T1">CEO of multi-billion dollar open-source software company, Red Hat,</text:span> suggests a movement toward a future where the open-source philosophy transcends the software development world and touches the core of human knowledge and <text:span text:style-name="T49">productive</text:span> power. It’s a future with immense possibilitie<text:span text:style-name="T46">s, and today the world is taking its first teetering steps in the direction of this future.</text:span></text:p>
+   <text:p text:style-name="P1">But what would <text:span text:style-name="T47">it</text:span> look like? How would it work? <text:span text:style-name="T47">What are its costs and its benefits? Is openness “charity”, or is this the a new way to do real business? Is the Open Future even economically and socially realistic? Where are we going with all this, and how do we get there?</text:span></text:p>
+   <text:p text:style-name="P2">These are the questions I hope to address with this writing. I <text:span text:style-name="T48">intend for</text:span> this to be a starting point – a rough draft, or a version 0.1<text:span text:style-name="T48"> </text:span>that will serve to spur conversation a<text:span text:style-name="T48">round the real possibilities that the future holds for our institutions, our enterprise and our world. I hope that it will serve to inspire people to more carefully consider the business and personal decisions they make now and in the future and how they can align these decisions with a viable vision for a better world.</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T51">To be clear,</text:span> I do not intend to <text:span text:style-name="T35">change</text:span><text:span text:style-name="T2"> the future </text:span><text:span text:style-name="T22">with this writing</text:span><text:span text:style-name="T2">. </text:span><text:span text:style-name="T7">Rather, I </text:span><text:span text:style-name="T8">hope to p</text:span><text:span text:style-name="T9">ut forth</text:span><text:span text:style-name="T7"> a clear and cogent </text:span><text:span text:style-name="T37">vision</text:span><text:span text:style-name="T7"> of </text:span><text:span text:style-name="T10">a</text:span><text:span text:style-name="T7"> future that&apos;s already beginning to </text:span><text:span text:style-name="T11">emerge</text:span><text:span text:style-name="T7">, such that as we move toward that future </text:span><text:span text:style-name="T11">together</text:span><text:span text:style-name="T7">, we will step more deftly, confidently, and purposefully </text:span><text:span text:style-name="T12">into it</text:span><text:span text:style-name="T7">.</text:span></text:p>
+   <text:h text:style-name="P21" text:outline-level="1">What Is “Open”?</text:h>
+   <text:p text:style-name="P23"><text:span text:style-name="T54">When I began studying the concept of the open future, I felt certain that it was some sparkling new paradigm that would provide a whole new context for human life and enterprise. Now, however, I&apos;ve come to view it quite differently. Openness is much less an ideal worldview than it is a convincing method for driving efficiency, innovation and opportunity. That is all.</text:span></text:p>
+   <text:p text:style-name="P23"><text:span text:style-name="T54">The end result, then – the “Open World” – is not such a vastly different world from today in its mechanics. It still has a trade economy with various currencies, for example. Competition does still exist, and there&apos;s still opportunity for profits. What changes is the way we construct, access and share these opportunities.</text:span></text:p>
+   <text:p text:style-name="P23"><text:soft-page-break/>So what <text:span text:style-name="T35">is</text:span><text:span text:style-name="T2"> an open world?</text:span><text:span text:style-name="T28"> When we speak of the ideal world, we often evoke a </text:span><office:annotation office:name="__Annotation__767_1088211180">
+     <dc:creator>Kael Shipman</dc:creator>
+     <dc:date>2016-08-12T17:30:06</dc:date>
+     <loext:sender-initials>KS</loext:sender-initials>
+     <text:p text:style-name="P27"><text:span text:style-name="T55">There must be other pillars. Need to think of them….</text:span></text:p>
+    </office:annotation><text:span text:style-name="T41">free</text:span><text:span text:style-name="T28"> world, a </text:span><text:span text:style-name="T41">just</text:span><text:span text:style-name="T28"> world, a </text:span><text:span text:style-name="T41">peaceful</text:span><text:span text:style-name="T28"> world</text:span><office:annotation-end office:name="__Annotation__767_1088211180"/><text:span text:style-name="T28">. These terms are intimately relate</text:span><text:span text:style-name="T29">d</text:span><text:span text:style-name="T28">: </text:span><text:span text:style-name="T31">They</text:span><text:span text:style-name="T30"> are the foundations of the ideal world, </text:span><text:span text:style-name="T31">and </text:span><text:span text:style-name="T33">that world</text:span><text:span text:style-name="T31"> cannot exist without </text:span><text:span text:style-name="T33">all three of them</text:span><text:span text:style-name="T30">.</text:span></text:p>
+   <text:p text:style-name="P15"><text:span text:style-name="T33">An open world builds on these foundations. </text:span><text:span text:style-name="T30"><text:s/>to create a whole world that&apos;s bountiful, sustainable, diverse, inclusive, happy? This is where </text:span><text:span text:style-name="T43">open</text:span><text:span text:style-name="T30"> come</text:span><text:span text:style-name="T31">s</text:span><text:span text:style-name="T30"> into play.</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T31">While peace, justice and freedom are, in most cultures, prerequisites for a functional world, I argue that openness is a prerequisite for a</text:span><text:span text:style-name="T44"> </text:span><text:span text:style-name="T31">world that reaches its </text:span><text:span text:style-name="T44">full potential</text:span><text:span text:style-name="T31">.</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T29">T</text:span><text:span text:style-name="T32">o further obscure the concept of “open”, t</text:span><text:span text:style-name="T29">he consequence to mankind </text:span><text:span text:style-name="T31">of</text:span><text:span text:style-name="T29"> not embracing openness is </text:span><text:span text:style-name="T32">not obvious. Rather than a clear detriment, not embracing openness simply results in</text:span><text:span text:style-name="T29"> a </text:span><text:span text:style-name="T42">lack of benefit.</text:span><text:span text:style-name="T29"> </text:span><text:span text:style-name="T32">This makes it particularly difficult to understand the significance </text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T13">An open world, </text:span><text:span text:style-name="T16">to me,</text:span><text:span text:style-name="T13"> is one in which collaboration is seen as inherently valuable </text:span><text:span text:style-name="T14">and is </text:span><text:span text:style-name="T38">protected and facilitated</text:span><text:span text:style-name="T14"> legally, culturally and infrastructurally.</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T23">Just as freedom in our society is a prerequisite for happiness </text:span><text:span text:style-name="T24">(one of several)</text:span><text:span text:style-name="T23">, “open” is a prerequisite for collaboration. </text:span><text:span text:style-name="T6">In such a world, we share </text:span><text:span text:style-name="T22">the products of our labor – our data, information, products and services – </text:span><text:span text:style-name="T6">because we understand that through sharing, a greater return on our investment is possible. </text:span><text:span text:style-name="T14">In suc</text:span><text:span text:style-name="T15">h a world, we </text:span><text:span text:style-name="T16">strive to work with, </text:span><text:span text:style-name="T17">rather than against,</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T17">one an</text:span><text:span text:style-name="T16">other, because we understand that our wellbeing is directly linked to that of the system as a whole.</text:span></text:p>
+   <text:p text:style-name="P14"><text:span text:style-name="T16">W</text:span><text:span text:style-name="T2">e live in a free world, in a peaceful world, in a world of abundance… in an open world. </text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T2">Perhaps equally important is to recognize what an open world is </text:span><text:span text:style-name="T35">not</text:span><text:span text:style-name="T2">. It is </text:span><text:span text:style-name="T35">not</text:span><text:span text:style-name="T2"> communism, </text:span><text:span text:style-name="T4">nor socialism, </text:span><text:span text:style-name="T22">nor libertarianism</text:span><text:span text:style-name="T2">. </text:span><text:span text:style-name="T4">It is not a political or governmental movement at all.</text:span><text:span text:style-name="T2"> It does not imply the disappearance of money, </text:span><text:span text:style-name="T22">n</text:span><text:span text:style-name="T2">or does it imply increased control over the way we live and interact.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T17">Quite to the contrary, it is a world fueled by the synergy and speed of small teams working on focused problems. It is a peer-to-peer world distinctly lacking the dinosaur bureaucracies that once ruled the Earth. It is a world defined by “centralized decentralization” </text:span><text:span text:style-name="T22">facilitated by</text:span><text:span text:style-name="T17"> a sort of “</text:span><text:span text:style-name="T18">societal operating system”</text:span><text:span text:style-name="T17"> that scales horizontally to take on ever greater challenges ever more effectively.</text:span></text:p>
+   <text:p text:style-name="P13"><text:span text:style-name="T17">A</text:span><text:span text:style-name="T2">nd it is happening. </text:span><text:span text:style-name="T20">At a frantic pace</text:span><text:span text:style-name="T19">, the lines are blurring between consumer and producer, manager and employee, decision-maker and constituent. Companies like Uber and AirBnB </text:span><text:span text:style-name="T21">have defined “latent supply” models that give everyday people access to opportunities once </text:span><text:span text:style-name="T2">out of reach</text:span><text:span text:style-name="T21">. The 3D printer, Etsy and Kickstarter have rocketed to the fore the real possibility of the stay-at-home manufacturer and the overnight entrepreneur. Wikipedia has open-sourced knowledge, and Twitter and Facebook have provided information super-highways, putting power in the hands of hundreds of millions who would never have known it just 2 decades prior.</text:span></text:p>
+   <text:p text:style-name="P13"><text:soft-page-break/><text:span text:style-name="T21">T</text:span><text:span text:style-name="T2">hese are the first achievements of the open future.</text:span></text:p>
+   <text:h text:style-name="P19" text:outline-level="1">What It Looks Like</text:h>
+   <text:p text:style-name="P11">Coworking spaces</text:p>
+   <text:p text:style-name="P11">Social Sector collaboration</text:p>
+   <text:p text:style-name="P11">The benefit economy</text:p>
+   <text:p text:style-name="P13">Systems Thinking: Optimizing the system, rather than any one part of it.</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">How It Works</text:h>
+   <text:p text:style-name="P9">Collaboration</text:p>
+   <text:p text:style-name="P9">Peer to Peer</text:p>
+   <text:p text:style-name="P9">Visibility</text:p>
+   <text:p text:style-name="P9">Access</text:p>
+   <text:p text:style-name="P9">Trend Toward Benefit – convergence of nonprofit and for-profit in the social sector</text:p>
+   <text:p text:style-name="P9">The Nature of Organizations</text:p>
+   <text:h text:style-name="P20" text:outline-level="1">What It Needs</text:h>
   </office:text>
  </office:body>
 </office:document>
